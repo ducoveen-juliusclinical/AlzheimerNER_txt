@@ -1,0 +1,7 @@
+Exclusion criteria:~* Diagnosis of possible, probable or definite vascular dementia.~* History/evidence of any
+other CNS disorder that could be interpreted as a cause of dementia~* History of known or suspected seizures,
+loss of consciousness or significant head trauma~* Subjects with ECG, blood pressure and laboratory values
+outside of protocol criteria are excluded.~* Subjects with known photosensitivity~* Subjects with a history of
+previous exposure to SB-742457, taking agents for which there is a theoretical risk of interaction with
+SB-742457, or taking medication for Alzheimer's disease or centrally acting agents which might impact study
+outcomes may not participate.

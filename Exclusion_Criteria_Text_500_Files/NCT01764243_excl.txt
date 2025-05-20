@@ -1,0 +1,7 @@
+Exclusion Criteria:~* Inability to perform cognitive tests (ADAS-cog-13 and MMSE) at screening and at Day 1~*
+Diagnosis of any other disease which may cause dementia~* MRI or CT scan within 6 months before screening, with
+findings inconsistent with the diagnosis of Probable AD~* Diagnosis of major depressive disorder as defined by
+Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR) within last
+five years~* History of or current diagnosis of any psychosis~* History of myocardial infarction or unstable
+angina within six months before screening~* History of cerebrovascular disorder within 18 months before
+screening

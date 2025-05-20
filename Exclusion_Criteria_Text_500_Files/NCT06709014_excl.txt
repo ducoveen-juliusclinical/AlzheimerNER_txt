@@ -1,0 +1,42 @@
+Exclusion Criteria:~1. Has a history of psychiatric disorder such as schizophrenia, bipolar disorder, or major
+depression according to the criteria of the most current version of the Diagnostic and Statistical Manual of
+Mental Disorders (DSM), unless they are stable on treatment or no longer need treatment. Mild depression or
+history of depression that is stable on treatment with selective serotonin reuptake inhibitors (SSRI),
+serotonin and norepinephrine reuptake inhibitors (SNRI) or other anti-depression medication (e.g. Wellbutrin)
+at a stable dose is acceptable. Refer to Concomitant Medications section above for details on prohibited and
+permitted medications.~2. Has non-AD dementia, such as vascular dementia, Lewy body dementia, frontotemporal
+disease, PD dementia, B12 and thyroid deficiency caused dementia.~3. History of a seizure disorder, if stable
+on medication is acceptable. Refer to Concomitant Medications section above for details on prohibited and
+permitted medications.~4. Screening MRI (or historical MRI, if applicable) of the brain indicative of
+significant abnormality, including, but not limited to, prior hemorrhage or infarct > 1 cm3, > 3 lacunar
+infarcts, cerebral contusion, encephalomalacia, aneurysm, vascular malformation, subdural hematoma,
+hydrocephalus, space-occupying lesion (e.g., abscess or brain tumor such as meningioma unless they are
+documented and stable).~5. Has a history or current evidence of long QT syndrome, Fridericia's formula
+corrected QT (QTcF) interval ≥ 450 ms for men and ≥ 460 ms for women ((in the absence of a bundle branch
+block), or torsades de pointes.~6. Has bradycardia (<50 bpm) or tachycardia (>100 bpm) on the ECG at screening
+and deemed medically significant by the PI.~7. Has uncontrolled Type-1 or Type-2 diabetes. A participant with
+hemoglobin subunit alpha 1c (HbA1c) levels up to 7.5% can be enrolled if the PI believes the participant's
+diabetes is under control.~8. Has clinically significant renal (Chronic Kidney Disease Epidemiology
+Collaboration (CKD-EPI) <60 mL/min/BSA (body surface area) or hepatic impairment (alkaline phosphatase (ALP) >
+2.0 ULN and/or total bilirubin > 2.0 ULN).~9. Has any clinically significant abnormal laboratory values.
+Participants with liver function tests (aspartate aminotransferase (AST) or alanine aminotransferase (ALT))
+greater than twice the upper limit of normal will be excluded.~10. Is at imminent risk of self-harm, based on
+clinical interview and responses on the C- SSRS, or of harm to others in the opinion of the PI. Participants
+must be excluded if they report suicidal ideation with intent, with or without a plan or method (e.g., positive
+response to items 4 or 5 in assessment of suicidal ideation on the C-SSRS) in the past 2 months, or suicidal
+behavior in the past 6 months.~11. Has cancer or has had a malignant tumor within the past year, except
+participants who underwent potentially curative therapy with no evidence of recurrence (participants with
+stable untreated cancer are not excluded).~12. Alcohol / Substance use disorder, moderate to severe, in the
+last 5 years according to the most current version DSM.~13. Participation in another clinical trial with an
+investigational agent and have taken at least one dose of study medication, unless unblinded on placebo, within
+4 weeks prior to the start of screening, or five half-lives of the investigational drug, whichever is greater.
+The end of a previous investigational trial is the date the last dose of an investigational agent was
+taken.~14. Participants with learning disability or developmental delay.~15. Participants whom the PI deems to
+be otherwise ineligible.~16. Participants with a known allergy to the investigational drug or any of its
+components.~ Inactive ingredients of the investigational medicinal product:~ * Silicified Microcrystalline
+Cellulose~ * Dibasic Calcium Phosphate Dihydrate~ * Mannitol~ * Stearic Acid~ * Hypromellosee (capsule shells
+structure)~ * Titanium dioxide (opacifier of the capsule shells)~17. Participant is currently pregnant,
+breast-feeding, and/or lactating.~18. Participant is currently taking strong and moderate CYP3A4 inhibitors
+and/or inducers. Refer to Concomitant Medications section below for details on prohibited and permitted
+medications.~19. Participants with uncontrolled hypertension (systolic >160mm Hg and/or diastolic >95mm Hg) or
+hypotension (systolic <90mm Hg and/or diastolic <60 mm Hg) and deemed medically significant by the PI.

@@ -1,0 +1,4 @@
+Exclusion Criteria:~* Dementia due to another cause~* Other neurological or psychiatric diseases~*
+Pseudodementia~* Unstable medical condition~* Initial treatment within 30 days of screening with a ChEI,
+memantine or any investigational drug~* History of alcoholism, drug abuse, liver disease, peptic ulcer
+disease~* Pregnancy, or the potential to become pregnant.

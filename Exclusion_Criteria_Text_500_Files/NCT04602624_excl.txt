@@ -1,0 +1,9 @@
+Exclusion Criteria:~1. Participant has any medical or neurological condition (other than AD) that might be
+contributing to the participant's cognitive impairment or history of cognitive decline~2. Participant has a
+history of brain surgery, deep brain stimulation, a significant head injury causing loss of consciousness
+greater than 30 minutes, or hospitalization due to a brain injury~3. Participant has a history, presence,
+and/or current evidence of a clinically-significant intracranial abnormality (eg, stroke, hemorrhage,
+space-occupying lesion) that could account for the observed cognitive impairment (excluding abnormalities
+consistent with underlying AD pathology)~4. Participant has a history of possible or probable cerebral amyloid
+angiopathy, according to the Boston Criteria~5. Participant has a history of seizures or epilepsy, with the
+exception of a single episode of febrile seizures in childhood~6. Participant has current or recent suicidality

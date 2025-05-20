@@ -1,0 +1,5 @@
+Exclusion Criteria:~* Subjects with a diagnosis of possible, probable or definite vascular dementia may not
+participate.~* Subjects with known hypersensitivity to sunlight or a history of seizures, previous exposure to
+SB-742457, taking agents for which there is a theoretical risk of interaction with SB-742457, or taking
+medication for Alzheimer's disease or centrally acting agents which might impact study outcomes may not
+participate.

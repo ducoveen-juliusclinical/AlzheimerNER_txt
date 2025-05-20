@@ -1,0 +1,9 @@
+Exclusion Criteria:~1. Prior treatment with stem cells.~2. History of intracranial, subdural, or subarachnoid
+hemorrhage.~3. Subjects with baseline brain MRI showing more than four (4) cerebral microhemorrhages
+(regardless of their anatomical location or diagnostic characterization as possible or definite), and/or one
+(1) or more areas of superficial siderosis, and/or evidence of a prior macrohemorrhage. MRI must include
+fluid-attenuation inversion recovery (FLAIR) and T2\*-weighted gradient-recalled-echo (GRE) sequences.~4.
+History of cancer within the past 5 years, with the exception of localized basal or squamous cell carcinoma.~5.
+History of seizure disorder.~6. Diagnosis of cerebral autosomal dominant arteriopathy with subcortical infarcts
+and leukoencephalopathy (CADASIL).~7. History of cerebral neoplasm.~8. Myocardial infarction within six months
+of enrollment.

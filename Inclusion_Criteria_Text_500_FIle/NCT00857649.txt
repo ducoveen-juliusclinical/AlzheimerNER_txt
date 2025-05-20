@@ -1,0 +1,11 @@
+Inclusion Criteria:~Outpatients who:~* had a primary diagnosis of probable Alzheimer's Disease (AD) according
+to National Institute of Neurological and Communicative Disorders and Stroke and the Alzheimer's Disease and
+Related Disorders Association (NINDS-ADRDA) criteria, and with Diagnostic and Statistical Manual of Mental
+Disorders, 4th edition, text revised (DSM IV TR) criteria for dementia of the Alzheimer's type~* had moderate
+to severe dementia, defined as a Mini Mental State Examination (MMSE) total score ≥5 and ≤15 at screening.
+Before substantial protocol amendment SA04 (dated 7 October 2004) was implemented, the MMSE total score range
+at screening was ≥8 and ≤18. Substantial protocol amendment SA07 (dated 4 September 2009) allowed patients who
+had previously had an MMSE score of 16 or 17 to be re-screened >6 months after their initial screening and, if
+there was documented evidence of cognitive decline, to be enrolled in the study~* had a Neuropsychiatric
+Inventory (NPI) total score ≥13 and an NPI agitation/aggression subitem score ≥1 at screening and baseline~*
+did not have vascular dementia or a modified Hachinski Ischaemia Scale score >4 at screening~

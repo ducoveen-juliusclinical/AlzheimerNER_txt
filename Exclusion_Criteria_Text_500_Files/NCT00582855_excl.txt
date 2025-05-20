@@ -1,0 +1,7 @@
+Exclusion Criteria:~* Immune therapy targeting Alzheimer beta amyloid within the last 12 months~*
+Institutionalized~* Disability that may prevent completion of all study requirements (e.g., blindness,
+deafness, or communication difficulty)~* Reported use of tobacco products in the previous 3 months or have a
+urine cotinine level greater than 500 ng/ml~* Past medical history of clinically significant electrocardiogram
+(ECG) abnormalities or a family history (grandparents, parents, and siblings) of prolonged QT-interval
+syndrome~* History or current diagnosis of conditions specified in the protocol.~Other protocol-defined
+inclusion/exclusion criteria may apply.

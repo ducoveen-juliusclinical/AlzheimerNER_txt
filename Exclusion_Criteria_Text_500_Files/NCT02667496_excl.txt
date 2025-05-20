@@ -1,0 +1,39 @@
+Exclusion criteria:~* Any technical/administrative reason that makes it impossible to randomize the patient in
+the study.~* Prior treatment with an investigational anti-amyloid therapy.~* Contraindication for lumbar
+puncture, or contraindication or inability to complete magnetic resonance imaging (MRI) or having past or
+planned exposure to ionizing radiation that would, together with the radiation resulting from the
+administrations of the PET tracer used in this study, exceed applicable institutional, local, or national
+recommendations for annual or lifetime exposure.~* Modified Hachinski Ischemic Score >4.~* Other neurological
+or psychiatric condition (other than AD) which can impair cognition; or, computerized tomography (CT)/MRI
+evidence of potentially significant intracranial abnormalities not related to AD (eg, evidence of major stroke
+or lacune in an area critical to cognition, infections, cancer, hydrocephalus, multiple sclerosis etc.); or
+abnormal cerebrospinal fluid (CSF) not consistent with AD.~* MRI evidence of >4 microhemorrhages: patients who
+may be prone to spontaneous amyloid-related imaging abnormalities (ARIA-H) and/or may be more susceptible to
+adverse effects of the ARIA-H.~* Untreated or unstable medical condition that could interfere with the study
+assessments in the opinion of the Investigator or may require immune-stimulating, immune-suppressive, or
+immune-modulating treatment(s) during the conduct of the study; eg, immunoglobulin, therapeutic vaccines,
+cytokines, anti-cytokine monoclonal antibodies. History of asplenia, hyposplenia, or splenectomy (whatever the
+surgical reasons).~* Current mood or anxiety disorder, and/or a psychotic disorder, and/or a substance-related
+disorder according to Diagnostic and Statistical Manual of Psychiatric Disorders, Edition IV, text revision
+(DSM-IV-TR) or DSM-V; or considered suicidal or shows suicidal ideation as assessed by the Investigator.~*
+Laboratory abnormalities indicative of an untreated medical or hematologic condition that could increase risk
+or interfere with study assessments including untreated hypo- or hyperthyroidism, vitamin B12 deficiency,
+hyperleukocytic syndrome (including but not restricted to chronic myelogenous leukemia, Hodgkin and non-Hodgkin
+lymphoma), monoclonal gammopathy, and thrombocythemia.~* Known renal dysfunction or serum creatinine >150
+Âµmol/L.~* Known hepatic dysfunction (apart from Gilbert's syndrome) or serum alanine aminotransferase (ALT) ≥3
+times the upper limit of normal (ULN).~* Pregnant or breastfeeding woman.~* Presence or history of drug
+hypersensitivity; or known hypersensitivity to sargramostim, yeast-derived products, any other component of the
+product, or benzyl alcohol (present in bacteriostatic water or saline for infusion).~* Evidence of fluid
+retention (clinical or radiological), respiratory symptoms (eg, dyspnea), cardiovascular symptoms or
+electrocardiographic evidence of cardiac disease which warrant therapeutic intervention (eg, supraventricular
+arrhythmia).~* History of deep vein thrombosis (DVT) or pulmonary embolism or familial predisposition for DVT
+or pulmonary embolism.~* Women and female partners of childbearing potential and not protected by highly
+effective contraceptive methods of birth control (ie, oral or depot contraceptives or intrauterine device
+\[IUD\] or subject was surgically sterilized) and/or unwilling or unable to be tested for pregnancy; or are
+pregnant or lactating.~* Recipient of an investigational drug within prior 60 days, or within 5 times the
+elimination half-life of that drug, whichever is the longest.~* History of latex allergy or yeast allergy.~*
+Any patient who:~* Is likely to be noncompliant, leave the area, or separate from the designated
+caregiver/informant for more than 3 days during the study,~* Unable to cooperate because of a language problem
+or poor mental development,~* Oversees or implements any aspect of the study, or~* Is employed by Sanofi or its
+affiliates or subsidiaries (eg, Genzyme, Sanofi-Pasteur, Merial).~The above information is not intended to
+contain all considerations relevant to a patient's potential participation in a clinical trial.

@@ -1,0 +1,3 @@
+Exclusion criteria:~* Congestive Heart Failure (NYHA 1-4), clinically significant peripheral edema, other
+neurological conditions that might disqualify participation. SAE, clinically significant laboratory abnormality
+or significant cardiovascular event during prior study.

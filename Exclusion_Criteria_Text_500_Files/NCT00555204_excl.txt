@@ -1,0 +1,3 @@
+Exclusion Criteria:~* Patient is living in a nursing home~* Patient has a history of any significant neurologic
+disease other than Alzheimer's disease~* Patient has any uncontrolled medical illness~* Patient uses
+non-prescribed drugs of abuse or has a history of drug or alcohol abuse/dependence

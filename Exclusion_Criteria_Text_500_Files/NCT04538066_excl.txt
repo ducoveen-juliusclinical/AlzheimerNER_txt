@@ -1,0 +1,69 @@
+Exclusion Criteria:~Eligibility Criteria:~Inclusion~1. Written informed consent from caregiver and subject (if
+possible) or legally acceptable representative if different from caregiver 2. Male and female subjects 55-85
+years of age inclusive 3. Cognitive deficit present for at least 2 years that meet the diagnostic criteria for
+probable Alzheimer's dementia. The diagnosis must be confirmed at the time of the screening visit 4. MMSE-2
+score of 10-18 inclusive (applies to Screening Visit only) 5. Patients must have a baseline SIB total score of
+at least 60 and may not have a SIB score >93 at screening 6. Neuroimaging computerized tomography (CT) or
+Magnetic Resonance Imaging (MRI) within the last 24 months consistent with a diagnosis of probable AD without
+any other clinically significant co-morbid pathologies. If there has been a significant change in the subject's
+clinical status since the last imaging study that is not consistent with progression of the subject's AD, an
+imaging study should be performed to confirm eligibility 7. Reliable caregiver(s) or informant(s) who attends
+the subject at least an average of 3 hours or more per day for 3 or more days per week and who will agree to
+accompany the subject to the clinic visits and reliably complete the caregiver questions 8. Adequate vision and
+motor function to comply with testing 9. If taking an approved cholinesterase inhibitor for treatment of
+Alzheimer's disease, must be on a stable dose for at least 3 months prior to entry into study and the dose must
+not change during the study unless a change is required due to an adverse effect of the prescribed medication
+or a clinically significant change in the patient's status 10. Subjects who are memantine naÃ¯ve or have been
+off memantine for at least 90 days prior to initial treatment with study drug 11. Subjects on neuroleptic
+medications must be on a stable dose for ≥4 weeks at screening (dose adjustments will be permitted if medically
+necessary at the discretion of the PI) 12. Females participating in the study must meet one the following
+criteria:~1. Surgically sterilized (e.g., hysterectomy, bilateral oophorectomy or tubal ligation) for at least
+6 months or postmenopausal (postmenopausal females must have no menstrual bleeding for at least 1 year) or~2.
+If not postmenopausal, agree to use a double method of contraception, one of which is a barrier method (e.g.,
+intrauterine device plus condom, spermicidal gel plus condom) 30 days prior to dosing until 30 days after last
+dose and have negative human chorionic gonadotropin (Î²-hCG) test for pregnancy at screening 13. Males who have
+not had a vasectomy must use appropriate contraception methods (barrier or abstinence) from 30 days prior to
+dosing until 30 days after last dose 14. In the opinion of the PI subjects should be in reasonably good health
+over the last 6 months and any chronic disease should be stable Exclusion~ 1. Dementia due to any condition
+other than AD, including vascular dementia (Rosen-Modified Hachinski Ischemic score ≥ 5)~ 2. Evidence of
+significant central nervous system (CNS) vascular disease on previous neuroimaging including but not limited
+to: cortical stroke, multiple infarcts, localized single infarcts in the thalamus, angular gyrus, multiple
+lacunar infarcts or extensive white matter injury~ 3. Clinically significant neurologic disease or condition
+other than AD, such as cerebral tumor, chronic subdural fluid collections, Huntington's Disease, Parkinson's
+Disease, normal pressure hydrocephalus, or any other diagnosis that could interfere with assessment of safety
+and efficacy~ 4. Evidence of clinically significant unstable cardiovascular, pulmonary, renal, hepatic,
+gastrointestinal, neurologic, or metabolic disease within the 6 months prior to enrollment. If there is a
+history of cancer the subject should be clear of cancer for at least 2 years prior to screening. More recent
+history of basal cell or squamous cell carcinoma and melanoma in situ (Stage 0) may be acceptable after review
+by the Medical Monitor.~ 5. Creatinine clearance (CL) of <45ml/min~ 6. Poorly controlled diabetes, at the
+discretion of the Principal Investigator~ 7. Concomitant treatment with NMDA receptor antagonists such as but
+not limited to memantine or drug combinations containing memantine, dextromethorphan (a cough suppressant),
+ketamine, phencyclidine (PCP), methoxetamine (MXE), nitrous oxide (N2O) and the following synthetic opioids:
+penthidine, levorphanol, methadone, dextrpropoxyphene, tramadol, and ketobemidone.~ 8. Use of vitamin E > 400
+International Units (IU) per day within 14 days prior to screening~ 9. Use of acetaminophen within 14 days
+prior to screening~ 10. Use of gabapentin within 14 days prior to screening~ 11. Use of valproic acid within 14
+days prior to screening~ 12. Use of an active Alzheimer's vaccine within 2 years prior to screening~ 13. Use of
+a monoclonal antibody for treatment of AD within 1 year prior to screening~ 14. Any medical or psychiatric
+condition that is likely to require initiation of additional medication or surgical intervention during the
+course of the study~ 15. Any screening laboratory values outside the reference ranges that are deemed
+clinically significant by the PI~ 16. Use of an investigational drug within 90 days prior to screening~ 17.
+Suicidality defined as active suicidal thoughts during the 6 months prior to screening or at Baseline \[Type 4
+or 5 on C-SSRS\], or history of suicide attempt in previous 2 years, or at serious suicide risk in PI's
+judgment~ 18. Major psychiatric illness such as current major depression according to Diagnostic and
+Statistical Manual of Mental Disorders, 5th Edition , current or past diagnosis of bipolar disorder,
+schizophrenia, or any other psychiatric disorder that might interfere with the assessments of safety or
+efficacy at the discretion of the PI~ 19. Diagnosis of alcohol or drug abuse within the last 2 years~ 20.
+Abnormal laboratory tests that suggest an alternate etiology for dementia. If the patient has prior history of
+serum B12 abnormality, anemia with hemoglobin ≤10g/dl, thyroid function abnormality, electrolyte abnormality,
+or positive syphilis serology the patient should be revaluated to determine if these potential causes of
+dementia have been addressed. Only if these causes have been ruled out as the cause of the dementia can the
+patient be enrolled.~ 21. History of prolonged QT or prolonged QT on screening ECG (QTcB or QTcF >499 per
+central reader)~ 22. Acute or poorly controlled medical illness: blood pressure > 180 mmHg systolic or 100 mmHg
+diastolic; myocardial infarction within 6 months; uncompensated congestive heart failure \[New York Heart
+Association (NYHA) Class III or IV\]~ 23. Known to be seropositive for human immunodeficiency virus (HIV)~ 24.
+Known to be seropositive for Hepatitis B or C, unless successful curative treatment for Hepatitis C (e.g.,
+Harvoni) has been received and there is documentation that there is no Hep B/C virus detected 3 months after
+completion of treatment~ 25. AST or ALT >3x upper limit of normal (ULN) and total bilirubin >2x ULN or
+International Normalized Ratio (INR) >1.5~ 26. Prior exposure to bryostatin, or known sensitivity to bryostatin
+or any ingredient in the study drug~ 27. Any other concurrent medical condition, which in the opinion of the PI
+makes the subject unsuitable for the clinical study -

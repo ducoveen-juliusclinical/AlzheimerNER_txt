@@ -1,0 +1,6 @@
+Exclusion Criteria:~* Subject has any contraindications or inability to tolerate brain magnetic resonance
+imaging (MRI), PET scans or lumbar puncture.~* Subject has evidence of any other clinically significant
+neurological disorder other than early AD.~* In the opinion of the investigator, the subject has any clinically
+significant or uncontrolled medical or psychiatric illness, or has had an infection requiring medical
+intervention in the past 30 days.~* Subject has had a myocardial infarction, unstable angina, stroke, transient
+ischemic attack or required intervention for any of these conditions within 6 months of Screening.

@@ -1,0 +1,16 @@
+Exclusion Criteria:~* Have previously completed or withdrawn from this study or any other study investigating
+solanezumab~* Does not have good venous access, such that intravenous drug delivery or multiple blood draws
+would be precluded~* Has allergies to humanized monoclonal antibodies~* Has a known history of human
+immunodeficiency virus (HIV), clinically significant multiple or severe drug allergies, or severe posttreatment
+hypersensitivity reactions (including, but not limited to, erythema multiforme major, linear IgA dermatosis,
+toxic epidermal necrolysis, or exfoliative dermatitis)~* Has a history of chronic alcohol or drug
+abuse/dependence~* Is clinically judged by the investigator to be at serious risk for suicide~* Has a recent
+(within 6 months before screening) or current laboratory result (if available) indicating a clinically
+significant laboratory abnormality~* Has Electrocardiogram (ECG) abnormalities obtained at screening that, in
+the opinion of the investigator, are clinically significant with regard to the subject's participation in the
+study. Bazett's corrected QT \[QTcB\] interval must be evaluated and must not exceed >458 msec in males or >474
+msec in females~* At screening, has alanine transaminase (ALT/SGPT) values greater than or equal to 2 times the
+upper limit of normal (ULN) of the performing laboratory, aspartate transaminase (AST/SGOT) values greater than
+or equal to 3 times the ULN, or total bilirubin values greater than or equal to 2 times the ULN~* Has had IgG
+therapy (sometimes called gamma globulin therapy) within the last year or previous participation in any other
+study investigating active immunization against AÎ²~* Requires treatment with other monoclonal antibodies

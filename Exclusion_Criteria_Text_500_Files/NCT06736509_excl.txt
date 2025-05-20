@@ -1,0 +1,6 @@
+Exclusion Criteria:~* Caregiver is unwilling or unable, in the opinion of the Investigator, to comply with
+study instructions.~* Subject is hospitalized in a mental health facility (e.g., psychiatric hospital or ward),
+living in a nursing home, or living alone.~* Any concurrent medical condition that might interfere with the
+conduct of the study, confound the interpretation of study results, or endanger the subject's well-being.~*
+Initiation of a new medication since enrolling in AXS-05-AD-304 and/or AXS-05-AD-303 which may pose a safety
+risk when taken concurrently with AXS-05.

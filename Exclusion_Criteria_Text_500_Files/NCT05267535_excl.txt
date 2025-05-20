@@ -1,0 +1,49 @@
+Exclusion Criteria:~* Declines whole genome screening for 2:107,510,000-107,540,000 polymorphism and APOE4
+genotyping.~* Patient is 2:107,510,000-107,540,000 polymorphism carrier.~* Patient has an alternative cause for
+dementia other than AD.~* A past or recent CT or MRI scan or report indicating any cortical infarct defined as
+> 1.5 cm3; more than 2 lacunar infracts defined as ≤ 1.5 cm3; or diffuse white matter disease), Fazekas score
+of more than 1 on MRI or CT scan (more details Appendix 3).~* Patient has evidence of any clinically
+significant neurodegenerative disease, or other serious neurological disorders other than AD as detailed in
+Appendix 3,~* Patient has a concurrent psychiatric disorder that prevents his/her participation in the trial
+including but not limited to Schizophrenia, Bipolar and related disorders, Substance use disorders within the
+past 2 years, major depression, etc.~* Patient has a history of uncontrolled or untreated cardiovascular,
+endocrine, gastrointestinal, respiratory, or rheumatologic disorders within the past 5 years.~* Patient has a
+history of severe agitation and medically treated agitation.~* Patient has a history of serious infectious
+disease including:~ * Neurosyphilis~ * Meningitis~ * Encephalitis~* Patient has a history of a primary or
+recurrent malignant disease that has not been in remission for > 5 years prior to the Screening visit, with the
+exceptions of excised cutaneous squamous cell carcinoma in situ, basal cell carcinoma without recurrences; and
+history of intraductal breast cancer, cervical carcinoma in situ, or in situ prostate cancer resected over 5
+years previously. (For resected in situ prostate cancer, i.e., high grade intraepithelial neoplasia, the
+patient must have a normal prostate specific antigen \[PSA\] prior to Screening and no increase in PSA since
+his resection surgery).~* Patient has severe pain that is likely to interfere with sleep (in the opinion of the
+investigator).~* Patient has any concomitant documented progressive disease likely to interfere with the
+conduct of the study, particularly:~ * Liver disease with aspartate aminotransferase (AST), alanine
+aminotransferase (ALT) or gamma glutamyltransferase (GGT) > 3 times the upper limits of normal (ULN)~ * Total
+bilirubin > 3 times the ULN~ * Mean corpuscular volume > 95 Âµ3 if due to chronic alcoholism~ * Renal failure
+with creatinine < 30 ml / min~* Patients that are taking prohibited medications according to Appendix 2 See
+also section 12.9.~* Continuous use of benzodiazepines or other sedative hypnotics during the 2 weeks before
+Screening (see Section 12.9).~* Patient has a history of chronic use (more than 3 months of continuous use) and
+abuse of benzodiazepines or other sedative hypnotics.~* Use of any kind of melatonin/melatonin agonist during
+the 2 weeks before Screening (see Section 12.9).~* Patient has known or suspected hypersensitivity to exogenous
+melatonin or melatonin receptor agonists.~* Patient has clinically significant abnormal laboratory findings
+that have not been approved by the study safety officer.~* Patient has persistent bradycardia (heart beat < 50
+bpm) or tachycardia (heart beat > 100 bpm).~* Patient has atrioventricular block (type II/Mobitz II and type
+III), congenital long QT syndrome, sinus node dysfunction or a marked prolongation of QTc interval (repeated
+demonstration in ECGs of QTc interval > 450 msec for males and > 470 msec for females using Fridericia's
+formula: QTc = QT/cube root of RR).~* Patient has other serious diseases that could interfere with patient
+assessment, in the opinion of the investigator.~* Patient has untreated B12 and/or folic acid deficiency.~*
+Patient has participated in a clinical trial with any investigational agent within 3 months before Screening.
+Participants in any former monoclonal antibody clinical trial for AD are not eligible until 6 months after the
+last visit of the previous study. Patients who have received active vaccine for AD in the past will be
+excluded.~* Patient with a body mass index (BMI) above 35 or below 18.~* Lifestyle exclusions:~* Patients
+unwilling to limit alcohol intake to less than 30 g of pure alcohol per day (see Appendix 1) and to abstain
+after 2000h throughout the study~* Patients unwilling to be exposed to at least 2 hours of daylight each day~*
+Divergence from the accepted level of study medication compliance (70% 130% of expected consumption) as
+verified at Visit 2 (see Section 12.10)~* Patients consuming more than 7 cups of tea or coffee (or equivalent
+amount of caffeine \[650 mg\] in other caffeinated beverages) per day~* Patients with an irregular lifestyle or
+life pattern (e.g., shift workers, patients likely to be jet lagged)~* Patients with evidence of serious risk
+of suicide based on the Columbia-Suicide Severity Rating Scale, i.e., active suicidal ideation with some intent
+to act, with or without a specific plan (a positive response to Suicidal Ideation Items 4 or 5) in the 6 months
+prior to Screening, OR with evidence of suicidal behavior in the 2 years prior to Screening (a positive
+response to any of the 5 Suicidal Behavior Items {actual attempt, interrupted attempt, aborted attempt,
+preparatory acts, or behavior}), OR who, in the opinion of the investigator, present a serious risk of suicide.

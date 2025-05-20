@@ -1,0 +1,6 @@
+Exclusion Criteria:~* Patients with neurodegenerative diseases other than Alzheimer's disease, such as Lewy
+bodies disease, (dementia due to tiny round structures made of proteins that develop within nerve cells in the
+brain), Parkinsonism, etc~* Patients with cognitive dysfunction due to cerebral damage resulting from a lack of
+oxygen, a brain injury, etc~* Patients with multi-infarct dementia (brought on by a series of strokes) or
+active cerebrovascular disease~* Patients with clinically significant cardiovascular disease~* Patients
+currently taking drugs such as a cholinesterase inhibitors, which improve cerebral circulation/metabolism

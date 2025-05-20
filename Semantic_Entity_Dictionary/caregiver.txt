@@ -1,0 +1,17 @@
+entity
+caregiver
+informant
+carer
+care giver
+relative
+chaperone
+study partner
+trial partner
+informants
+project partner
+family member
+caretaker
+legally authorized representative
+legal representative
+guardian
+partner

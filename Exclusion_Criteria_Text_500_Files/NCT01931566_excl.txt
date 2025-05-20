@@ -1,0 +1,39 @@
+Exclusion Criteria:~1. Has a current diagnosis or history of any type of cognitive impairment or dementia or
+has a current diagnosis or history of neurological/psychiatric disorder or any other diagnosis that
+significantly affects cognitive performance (eg, mental retardation, organic mental disorder).~2. Has a current
+diagnosis of significant psychiatric illness, per Diagnostic \& Statistical Manual of Mental Disorders, 4th
+Edition - Text Revision (DSM-IV-TR) (or DSM-V when published) (including but not limited to major depressive
+disorder, anxiety disorders) and is in an acute phase/episode, or the participant has a current diagnosis or
+history of schizophrenia or bipolar disorder.~3. Has a glycosylated hemoglobin (HbA1c) >8.0% at the time of
+baseline or requires treatment with insulin, triple oral antidiabetic therapy or a peroxisome
+proliferator-activated receptor-gamma (PPAR-Î³) agonist. The participant should be on a stable antidiabetic
+regimen for at least 3 months prior to enrollment.~4. Has a clinically significant unstable illness, for
+example, hepatic impairment or renal insufficiency, or cardiovascular, pulmonary, gastrointestinal (including
+s/p gastric bypass), endocrine, neurological, rheumatologic, immunologic, infectious, skin and subcutaneous
+tissue disorders, or metabolic disturbance. History of HIV infection is considered exclusionary for this
+study.~5. Has a history of drug abuse (defined as any illicit drug use) or a history of alcohol
+abuse/dependence within 2 years prior to the Screening Visit.~6. Is an immediate family member, testing center
+employee, or is in a dependent relationship with a testing center employee who is involved in conduct of this
+study (eg, spouse, parent, child, and sibling) or may consent under duress.~7. Has a history of
+hypersensitivity or allergies to pioglitazone or related compounds.~8. Is required to take excluded medications
+as specified in the Excluded Medications Section.~9. Had any of the following values at the Baseline Visit
+(Visit 2):~ 1. A serum total bilirubin value >1.5Ã— upper limit of normal (ULN).~ 2. A serum alanine
+aminotransferase (ALT) or aspartate aminotransferase (AST) value >2xULN.~ 3. Unexplained
+microscopic/macroscopic hematuria on one repeat examinations within 2 weeks of the initial assessment.~10. Is
+positive for either Hepatitis B surface antigen (HBsAg) or anti-hepatitis C virus (HCV) antibodies at the
+Baseline Visit (Visit 2).~11. Has a condition or takes medication that, in the opinion of the Investigator,
+could interfere with the assessments of safety, tolerability, or efficacy, or prevent the participant from
+adequately participating in the study or continue for the anticipated duration of the study.~12. Has received
+any investigational compound within 30 days prior to screening or 5 half-lives prior to Screening or is
+currently participating in another study which entails the administration of an investigational or marketed
+drug, supplement or intervention including, but not limited to diet, exercise, lifestyle or invasive
+procedure.~13. Has a history of any cancer that has been in remission for less than 2 years from the Screening
+Visit. Participants with basal cell or stage I squamous cell carcinoma of the skin will be eligible.
+Participants with history of bladder cancer are not eligible irrespective of the remission status.~14. Has a
+history or current diagnosis of macular edema or macular degeneration.~15. If female, has a history of
+postmenopausal fractures with no or minimal trauma (eg, wrist, hip, lumbar or thoracic vertebral fracture).~16.
+Has a history or current diagnosis of congestive heart failure (CHF), New York Heart Association Class
+III-IV.~17. Has been exposed to the cognitive tests performed in this study within 6 months prior to the
+Screening Visit, with the exception of the MMSE.~18. Participant's Translocase of the Outer Mitochondrial
+Membrane 40 homolog (TOMM40) rs10524523 or apolipoprotein E (APOE) genotypes or APOE phenotype are known by the
+participant or the study staff participating in this study.

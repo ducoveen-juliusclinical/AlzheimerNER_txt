@@ -1,0 +1,33 @@
+Exclusion criteria~1. Intolerance, or any contraindications, to study medications~2. Average SBP <110mmHg or
+average DBP <60 mmHg during screening~3. Familial autosomal dominant form of Alzheimer's disease~4. Creatinine
+clearance less than or equal to 30ml/min~5. Serum potassium > 5.5 mEq/L~6. ALT 3x > the upper limit of normal
+(ULN)~7. History of angioedema~8. Co-morbid acute or chronic conditions (including type I diabetes mellitus,
+other neurological conditions such as Parkinson's disease, psychiatric disorders, and severe or unstable
+medical conditions) that could confound assessments or would, in the judgment of the investigator, make the
+subject inappropriate for entry into this study~9. Any of the following findings on previous CT/MRI or on
+screening MRI:~ Exclusionary Finding: Malignant tumour Brain Location: Anywhere Size: Any Exclusionary Number:
+Any~ Exclusionary Finding: Tumour with significant mass effect Brain Location: Anywhere Size: Sufficient for
+mass effect Exclusionary Number: Any~ Exclusionary Finding: Vascular malformations Brain Location: Anywhere
+Size: Any Exclusionary Number: Any~ Exclusionary Finding: Subdural hematoma Brain Location: Anywhere Size: Any
+Exclusionary Number: Any~ Exclusionary Finding: Intracerebral hemorrhage Brain Location: Anywhere Size: Any
+Exclusionary Number: Any~ Exclusionary Finding: Cerebral microbleeds, Brain Location: Anywhere Size: Any
+Exclusionary Number: more than 5~ Exclusionary Finding: Superficial siderosis (SS) Brain Location: Cortex Size:
+Any Exclusionary Number: >1 instance of focal SS~ Exclusionary Finding: Ischemic infarct Brain Location: Cortex
+Size: >1.5 cm in diameter Exclusionary Number: Any~ Exclusionary Finding: Ischemic infarct Brain Location:
+Cortex Size: ≤1.5 cm in diameter Exclusionary Number: more than 1~ Exclusionary Finding: Fazekas score 3 with
+white matter hyperintensity band along the lateral surface of the ventricles >0.5 cm in width~ Exclusionary
+Finding: Ischemic infarct Brain Location: White matter Size: >1.5 cm in diameter Exclusionary Number: Any~
+Exclusionary Finding: Ischemic infarct Brain Location: White matter Size: 1.0-1.5 cm in diameter Exclusionary
+Number: More than 2~ Exclusionary Finding: Ischemic infarct Brain Location: Basal ganglia Size: >1.0 cm in
+diameter Exclusionary Number: Any~ Exclusionary Finding: Ischemic infarct Brain Location: Basal ganglia and
+white matter Size: ≤1.0 cm in diameter Exclusionary Number: More than 4~ Exclusionary Finding: Strategic
+infarct Brain Location: Thalamus Size: Any Exclusionary Number: Any~ Exclusionary Finding: Strategic infarct
+Brain Location: Hippocampus, Size: Any Exclusionary Number: Any~10. Inability to perform the study procedures,
+including claustrophobia or contraindications for MRI~11. Currently on or has taken an angiotensin receptor
+blocker within 12 months of randomization visit~12. Resides in a nursing home (participants who reside in
+retirement homes may be included if they have a study partner who meets inclusion criterion #8)~13. Current
+major depression by clinical history or score greater than 18 on the Cornell Scale for Depression in
+Dementia~14. Documented potential cardiac source of brain infarction such as mechanical valve or atrial
+fibrillation that is untreated or treated with warfarin or an antiplatelet agent; atrial fibrillation treated
+with a novel oral anticoagulant is permitted, as is a history of remote, transient atrial fibrillation that has
+not recurred

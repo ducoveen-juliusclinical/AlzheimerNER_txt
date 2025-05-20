@@ -1,0 +1,21 @@
+Exclusion Criteria:~* Subject has participated in a clinical trial of another investigational drug or device,
+or has taken any experimental drug within 30 days prior to admission to the Phase 1 unit. (Subjects previously
+enrolled in 1019-03-01 may be enrolled in 1019-04-01, only after a wash-out period of 45 days.)~* Subject has a
+history compatible with vascular dementia as evidenced by a score of 5 or greater on the modified Hachinski
+Ischemia Scale.~* Subject has evidence of clinically significant unstable cardiovascular, renal, hepatic,
+gastrointestinal, neurological, or metabolic disease within the past 6 months (as determined by medical
+history, ECG results, chest x-ray, or physical examination).~* Subject performance status is > 3 on items 1
+through 5 and > 2 on item 6 from the Degree of Disability Section of the Rapid Disability Scale-2.~* Subject
+has diabetes that requires oral antidiabetic therapy or insulin.~* Subject has a systolic blood pressure
+(sitting) of greater than 160 mmHg, a diastolic (sitting) greater than 95 mmHg, a decrease in systolic blood
+pressure of more than 30 mmHg upon standing for 2 minutes from a sitting or supine position, a pulse (sitting
+or supine) less than 50 or greater than 85.~* Subject has any visual, hearing, or communication disabilities
+impairing his/her ability to participate in the study.~* Subject is being treated with anticholinergics and/or
+clinically relevant cytochrome P450 3A4 inducers/inhibitors. The use of other concomitant medications for
+stable medical conditions is acceptable provided drug and dosage are stable for at least 4 weeks prior to
+dosing.~* Subject is currently taking herbal supplements which interfere with drug metabolism, e.g. St. John's
+wort, ginkgo biloba.~* Subject has tested positive for drugs of abuse (amphetamines, barbiturates, cocaine,
+phencyclidine, or cannabinoids) on screening or Day -1~* Subject has a current or past medical history of
+alcohol abuse.~* Subject has any elevations (> 1.2 x ULN) on screening or Day -1 for ALT, AST, bilirubin,
+creatinine, blood urea nitrogen, or alkaline phosphatase.~* Subject has any other screening or Day -1
+laboratory values outside the normal ranges that are deemed clinically significant by the investigator.

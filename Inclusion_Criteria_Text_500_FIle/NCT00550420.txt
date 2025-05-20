@@ -1,0 +1,40 @@
+Inclusion criteria:~* Male or female subject who has successfully completed Visit 8 of AVA105640 without
+safety/tolerability issues, where in the opinion of the subject /carer and of the investigator, it would be
+beneficial to receive RSG XR~* Female subjects able to bear children must agree to use an adequate method of
+contraception for the duration of the study for details of highly effective methods to avoid pregnancy). Female
+subjects who are pre-menopausal or who have been post-menopausal for <1 year must undertake pregnancy testing
+(urine test) Â£7 days before Visit 1, which must be negative~* Subject is willing to participate in the
+extension study and has provided full written informed consent prior to the performance of any
+protocol-specified procedure; or if unable to provide informed consent due to cognitive status, full written
+informed consent on behalf of the subject has been provided by a legally acceptable representative (where this
+is in accordance with local laws, regulations and ethics committee policy)~* Subject lives with (or has
+substantial periods of contact with) a regular caregiver who is willing to attend all visits, oversee the
+subject's compliance with protocol-specified procedures and study medication, and report on subject's status~*
+Subject has the ability to comply with procedures for cognitive and other testing~* Caregiver has provided full
+written informed consent on his or her own behalf prior to the performance of any protocol-specified
+procedure~* Subjects considered for enrollment must have a QTc (either QTc B (Bazett's correction) or QTc F
+(Fridericia's correction)) <450msec at Visit 1, with the exception of subjects with bundle branch block (for
+whom either QTc B or QTc F must be <480msec)~* In France, a subject will be eligible for inclusion in this
+study only if either affiliated to or a beneficiary of a social security category~* Post-menopause \[Becker,
+2001\]: Menopause is the age associated with complete cessation of menstrual cycles, menses, and implies the
+loss of reproductive potential by ovarian failure. This typically occurs around age 50, although it may occur
+earlier. A practical definition accepts menopause after one year without menses with an appropriate clinical
+profile, e.g., age appropriate, >45 years, in the absence of hormone replacement therapy. In questionable
+cases, a blood sample with simultaneous follicle stimulating hormone (FSH) > 40 MlU/ml and estradiol < 40 pg/ml
+(<140 pmol/L) is confirmatory (these levels are suggested guidelines and may need to be adjusted for specific
+laboratories/assays~* Females, who are on hormone replacement therapy (HRT), and whose menopausal status is in
+doubt, will be required to use a highly effective method to avoid pregnancy, as outlined in the protocol, if
+they wish to continue their HRT during the study. Otherwise, they must discontinue HRT to allow confirmation of
+post-menopausal status prior to study enrollment. For most forms of HRT, at least 2-4 weeks will elapse between
+the cessation of therapy and the blood draw as detailed in the preceding paragraph; this interval depends on
+the type and dosage of HRT. Following confirmation of their post-menopausal status, they can resume use of HRT
+during the study without use of a highly effective method to avoid pregnancy~* A non-cohabiting caregiver must
+spend sufficient time with the subject so that, in the opinion of the Investigator, the caregiver can reliably
+assess cognitive function, activities and behaviour, and report on the subject's compliance and health. As
+caregiver time spent with a potential subject is anticipated to be highly variable across countries and
+cultures, GSK will consider a variety of different measures by which this stipulation may be met, and GSK
+should be consulted if adequacy of a caregiver situation is in doubt. However, as guidance, the ability for a
+caregiver to meet his/her expected responsibilities for this study would normally be possible when the
+caregiver spends no less than 10 hours per week with the subject, divided over multiple days~* For the purposes
+of these criteria, QTc B is defined as (QT interval \[msec\]) / (square root of RR interval \[seconds\]); and
+QTc F is defined as (QT interval \[msec\]) / (cube root of RR interval \[seconds\])~

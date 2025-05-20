@@ -1,0 +1,29 @@
+Exclusion Criteria:~* Poorly controlled hypertension despite lifestyle modifications and/or pharmacotherapy.~*
+Pulmonary disease, including asthma if requiring the use of a Î²2-Adrenergic bronchodilator, or evidence of
+clinically significant moderate or severe pulmonary symptoms.~* Clinical signs indicating syndromes such as
+corticobasal degeneration, supranuclear gaze palsy, multiple system atrophy, chronic traumatic encephalopathy,
+signs of frontal dementia, history of stroke, head injury or encephalitis, cerebellar signs, early severe
+autonomic involvement, or Babinski sign.~* Current evidence or history in past two years of epilepsy, focal
+brain lesion, head injury with loss of consciousness or meeting DSM-IV diagnostic criteria for psychotic
+disorders.~* Evidence of any significant clinical disorder or laboratory finding (or in the case of potassium
+levels below normal range) that renders the participant unsuitable for receiving an investigational drug.~*
+History of malignant disease, including solid tumors and hematologic malignancies (except basal cell and
+squamous cell carcinomas of the skin that have been completely excised and are considered cured).~* Any
+clinically significant illness or disease as determined by medical and surgical history, physical examination,
+12-lead electrocardiogram (ECG) and clinical laboratory assessments conducted at Screening.~* Clinically
+significant abnormalities of ECG, including QTcF > 450 ms, for males and QTcF > 470 ms for females, and/or HR <
+50 beats per minute, or evidence of clinically significant bundle branch blocks, as indicated by 12-lead ECG.~*
+Calculated creatinine clearance of ≤70 mL/min according to the Cockcroft-Gault equation.~* Current use of any
+prohibited prescription medication (high-dose aspirin, paracetamol or levodopa, Î²-AR agonists or Î²-AR
+blockers, hypnotics or benzodiazepines other than clonazepam, monoamine oxidase inhibitors, opioids ),
+over-the-counter medication, or herbal supplements/products.~* Prior treatment with any investigational drug
+≤90 days prior to dosing (Day 1), or ≤5 half-lives of the drug (whichever is longer), or current enrollment in
+any other study treatment or disease study, except for observational studies.~* Known or suspected alcohol or
+substance abuse within the past 12 months and/or positive test for alcohol or drugs of abuse.~* Active suicidal
+ideation within 3 months prior to study Screening.~* Positive screening test for hepatitis C antibody (HCV Ab)
+or current hepatitis B infection (defined as positive for hepatitis B surface antigen \[HBsAg\] at
+Screening).~* Positive screening test for human immunodeficiency virus (HIV).~* Current infection with severe
+acute respiratory syndrome coronavirus 2 (SARS-CoV-2).~* Contraindications to wearing the BioStamp digital
+device sensors, which include but are not limited to implanted pacemakers, defibrillators, or other active
+implantable devices.~* Known allergies or hypersensitivities to adhesives or hydrogel.~* Other reasons for
+which the PI considers it is not in the best interest of the participant to undertake the study.

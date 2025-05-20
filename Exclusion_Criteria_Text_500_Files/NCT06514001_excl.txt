@@ -1,0 +1,11 @@
+Exclusion Criteria:~1. Presence of any underlying physical or psychological medical condition that, in the
+opinion of the investigator, would make it unlikely that the participant will complete the study per
+protocol~2. Diagnosis of glaucoma, or suspect of having glaucoma in either eye as determined by an
+ophthalmologist as a clinical investigator, based on results from the eye examination, visual field, and/or
+optical coherence tomography (OCT) results~3. Diagnosis of intermediate dry, wet/neovascular, or geographic
+atrophy forms of age-related macular degeneration (AMD) in either eye, OR as determined by an ophthalmologist
+as a clinical investigator, based on results from the eye examination and/or optical coherence tomography (OCT)
+results~4. Clinically significant laboratory abnormalities as assessed by the investigator~5. Prolonged QTcF
+(corrected QT interval by Fridericia method) (>450 ms for males and >470 ms for females), cardiac arrhythmia,
+or any clinically significant abnormality in the resting electrocardiogram (ECG), as judged by the
+investigator.

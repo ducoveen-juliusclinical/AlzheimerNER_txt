@@ -1,0 +1,10 @@
+Exclusion Criteria:~* Participants with CDR GS ≥2 at predose baseline Clinical Dementia Rating (CDR)
+administration~* Participants who fulfill diagnostic criteria for Mild Cognitive Impairment (MCI) or
+dementia/mild or major neurocognitive disorder suspected to be due to any etiology other than AD (example,
+Parkinson's disease, cerebrovascular disease, normal pressure hydrocephalus, head injury, drug or alcohol
+abuse/dependence, anoxic brain injury, (Et cetera\[etc\])~* Geriatric Depression Scale (GDS) 30 score greater
+than (>) 12~* Hachinski Ischemic Scale (HIS) >4~* Has received medications that affect the central nervous
+system (CNS), except treatments for AD, for less than 2 months; that is, doses of chronic medications that
+effect the CNS should be stable for at least 2 months before the start of screening. If a participant has
+recently stopped a chronic medication that effects the CNS, he or she must have discontinued treatment at least
+2 months before the start of screening. Chronic use of benzodiazepines is not permitted

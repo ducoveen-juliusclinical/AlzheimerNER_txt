@@ -1,0 +1,16 @@
+Exclusion Criteria for all subjects:~* Participation in a therapeutic clinical trial at any time during the
+study;~* Abnormal corrected QT interval using Bazett's formula (QTcB; defined as > 450 ms for men and > 470 ms
+for women) as determined on ECG;~* Any significant neurologic disease other than suspected incipient
+Alzheimer's disease, such as Parkinson's disease, multi-infarct dementia, Huntington's disease, normal pressure
+hydrocephalus, brain tumor, progressive supranuclear palsy, seizure disorder, subdural hematoma, multiple
+sclerosis, or history of significant head trauma followed by persistent neurologic deficits or known structural
+brain abnormalities, including lacunes in critical memory structures including the hippocampus and
+parahippocampal cortex;~* Major depression, bipolar disorder within the past 1 year;~* History of alcohol or
+drug dependence;~* Any significant systemic illness or unstable medical condition, which could lead to
+difficulty complying with the protocol;~* General surgery within the last 3 months;~* Sensory impairment (poor
+vision or hearing) significant enough to interfere with ability to provide valid cognitive test data;~*
+Treatment within the last six months with antidepressants, neuroleptics, sedative hypnotics, or
+glucocorticoids;~* Treatment within the last six months with medications metabolized by the CYP2C9 or CYP2C19
+enzymes, most notably clopidogrel and proton pump inhibitors;~* Concurrent use of a CYP3A inhibitor, including
+grapefruit juice, and St. John's Wort;~* Exceptions to these guidelines may be considered on a case-by-case
+basis at the discretion of the PI.

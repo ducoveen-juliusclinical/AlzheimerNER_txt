@@ -1,0 +1,9 @@
+Exclusion Criteria:~1. A non-Alzheimer primary dementia (e.g., vascular dementia, Lewy body dementia,
+fronto-temporal dementia, vitamin B-12 deficiency, hypothyroidism)~2. Current major depression, delirium,
+alcohol or psychoactive substance abuse or dependency, schizophrenia, or delusional disorder as defined by
+DSM-IV~3. Presence of any uncontrolled systemic illness that would interfere with participation in the study or
+a life expectancy of less than one year~4. Pregnant or intention to become pregnant~5. Enrollment in another
+interventional clinical trial~6. Current prescription with more than one AChE inhibitor~7. Current prescription
+for warfarin~8. Use of vitamin E supplements in the past 2 weeks~9. Use of memantine in the past 4 weeks or
+known intolerance~10. Estimated creatinine clearance less than 5ml/min (Cockcroft-Gault formula)~11. Use of
+amantadine in the past 2 weeks

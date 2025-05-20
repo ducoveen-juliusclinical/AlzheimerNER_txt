@@ -1,0 +1,8 @@
+Exclusion Criteria:~1. Dementia other than AD such as AIDS, CJD, LBD, CVD, Progressive Supranuclear Palsy,
+Multiple cerebral infarcts, or normal pressure hydrocephalus.~2. Other neurodegenerative diseases, including
+Parkinson's disease and Huntington's disease, or cerebral tumour.~3. Current presence of a clinically
+significant major psychiatric disorder according to the criteria of the DSM-IV, or symptom that could affect
+the participant's ability to complete the study). HAM-D score >12.~4. Current clinically significant systemic
+illness that is likely to result in deterioration of the patient's condition or affect the patient's safety
+during the study.~5. Any other criteria which in the opinion of the Investigator causes the participant not to
+qualify for the study.

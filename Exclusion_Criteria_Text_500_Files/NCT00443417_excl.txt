@@ -1,0 +1,5 @@
+Exclusion Criteria:~* Patient in mild cognitive impairment (MCI; CDR-SB <2.5)~* Other central nervous disease~*
+hypothyroidism, Vitamin B12/ Folic acid deficiency, hypercalcemia, neurosyphilis, AIDS~* T.I.A or Major
+infarction within the last 12 months~* Any serious disorder that could limit the ability of the patient to
+participate in the study~* COPD or asthma~* Any condition which would make the patient or the caregiver, in the
+opinion of the investigator, unsuitable for the study

@@ -1,0 +1,22 @@
+Exclusion Criteria:~* Significant cerebrovascular disease, as indicated by clinical history, neurological
+examination, or on MRI (including cortical infarction or deep white matter or periventricular white matter
+hyperintensities with a Fazekas scale score of 3 (Fazekas et al 1987).~* A history of cerebrovascular bleeding
+or severe bleeding of the digestive tract, lungs, nose or skin~* Severe renal impairment (GFR <30) or serum
+creatinine or urea nitrogen values ≥3 times Upper normal limit (ULN) at screening or baseline~* Moderate to
+severe hepatic impairment. Serum alanine transaminase (ALT) or aspartate transaminase levels ≥3 times ULN at
+screening or baseline~* Currently poorly controlled diabetes as indicated by HbA1c values >9~* White blood cell
+(WBC) values <3.5 K/Î¼l~* History of paralytic ileus or current severe chronic constipation~* Known allergy to
+fasudil or established systemic inflammatory disease or autoimmune disease.~* Clinically significant
+hypotension defined by blood pressure values <90/60 mmHg, regardless of the individual's sitting or standing
+position and associated with relevant clinical symptoms (e.g., tachycardia, dizziness, syncope)~* Current
+clinically significant depression or other mental disorder likely to affect cognition or interfere with study
+participation~* Recent (within 3 months) relevant medication changes. Participants must have been on stable
+anti-dementia (cholinesterase inhibitors or memantine) or anti-depressive medications for at least three months
+before the study~* Participants using sedating drugs, if unavoidable, will be excluded from the study. However,
+short-acting sleep medications can be used if taken as recommended and if the participant has maintained
+stability on them for a minimum of 3 months prior to the start of the study~* Participation in other drug
+trials~* Currently ongoing life-threatening disease, such as metastatic cancer, advanced cardiovascular
+disease, advanced respiratory disease, terminal kidney disease, or advanced stages of infectious diseases~* Any
+current or past neurological disease unrelated to Alzheimer's disease with cognitive sequelae~* A Corrected QT
+(QTc) interval ≥ 460 milliseconds for males or ≥ 470 milliseconds for females will be considered abnormal
+during the ECG assessments

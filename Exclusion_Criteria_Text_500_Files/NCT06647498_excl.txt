@@ -1,0 +1,65 @@
+Exclusion Criteria:~1. Significant neurologic disease (other than AD) or psychiatric disease that may currently
+or during the study affect cognition or the participant's ability to complete the study. This would include
+disorders such as: recent or severe head trauma causing cognitive change, seizure disorder, neurodegenerative
+disease other than DIAD, hydrocephalus, cerebral/spinal hematoma, inflammatory disease, CNS infection (e.g.,
+encephalitis or meningitis), neoplasm, toxic exposure, metabolic disorder (including hypoxic or hypoglycemic
+episodes) or endocrine disorder; psychiatric disorders such as schizophrenia, schizoaffective disorder, bipolar
+disorder or major depression, or any other psychiatric condition/disorder which could significantly interfere
+with the participant's cooperative participation (e.g., prominent anxiety, agitation or behavioral problems).
+Disorders that are controlled medically or remote history of these disorders (e.g., history of febrile seizures
+in childhood) that are not likely to interfere with cognitive function and compliance with study procedures are
+not exclusionary.~2. At high risk for suicide, e.g., significant suicidal ideation or attempt within last 12
+months, current major depression (as defined in Diagnostic and Statistical Manual of Mental Disorders, Fifth
+Edition \[DSM-V\]), or increased suicide risk based on screening Columbia Suicide Severity Rating Scale
+(C-SSRS). Current stable mild depression or current use of antidepressant medications are not exclusionary.~3.
+History of clinically evident stroke or history of clinically important carotid or vertebrobasilar stenosis,
+plaque, or other prominent risk factor for stroke or cerebral hemorrhage (including atrial fibrillation and
+anticoagulation, documented transient ischemic attack \[TIA\] in the last 12 months) that may be interfering
+with cognition or is likely to impact with the participant's ability to complete the study. Low dose aspirin (≤
+325 mg daily) is not exclusionary.~4. Alcohol or substance use sufficient to meet DSM-V criteria currently or
+within the past year.~5. History of or Baseline (V2) visit brain MRI scan indicative of any other significant
+abnormality, definite microhemorrhages, evidence of a cerebral contusion, encephalomalacia, or aneurysms. Minor
+or clinically insignificant imaging findings are not exclusionary.~6. Presence of certain implanted medical
+devices, such as some pacemakers, aneurysm clips, artificial heart valves, ear implants, or foreign metal
+objects in the eyes, skin, or body which would preclude MRI scan.~7. Cardiovascular complications such as
+uncontrolled hypertension, history of myocardial infarcts, heart failure, atrial fibrillation, long QT interval
+on ECG likely to interfere with participation in or analysis of the trial in the opinion of the investigator~8.
+Hepatic or renal abnormalities that in the opinion of the investigator would interfere with participation in or
+analysis of the trial.~9. History of Human Immunodeficiency Virus (HIV) infection, history of Hepatitis B
+infection within the past year, history of Hepatitis C infection which has not been adequately treated, history
+of spirochete infection (e.g., syphilis, Lyme) of the CNS or history of other infection with high risk for
+interfering with participation or interpretation of the study in the opinion of the investigator.~10. History
+of clinically significant multiple or severe drug allergies, significant atopy, or severe post-treatment
+hypersensitivity reactions (including but not limited to erythema multiforme major, linear IgA dermatosis,
+toxic epidermal necrolysis, and/or exfoliative dermatitis) or sensitivity to study-drug specific PET imaging
+agents with a high risk for interfering with participation or interpretation of the study in the opinion of the
+investigator.~11. Treatment with immunosuppressive medications (e.g., systemic corticosteroids) within 90 days
+prior to Baseline (V2) visit (topical and nasal corticosteroids and inhaled corticosteroids for asthma are
+permitted) or chemotherapeutic agents for malignancy within the last 3 years.~12. Current clinically
+significant abnormalities of thyroid function, or clinically significant deficiency in vitamin B12. Vitamin B12
+less than the lower limits of normal with normal methylmalonic acid (MMA)/homocysteine is not deemed clinically
+significant, therefore not exclusionary.~13. Unstable or poorly controlled diabetes which the investigator
+believes may interfere with participation in or analysis of the study protocol. Participants may be rescreened
+after 3 months to allow optimization of diabetic control~14. Morbid obesity with significant comorbidities or
+that would preclude MRI imaging.~15. Current use of anticoagulants (e.g., warfarin, dabigatran, rivaroxaban, or
+apixaban). Daily use of low dose (< 325 mg) aspirin is not exclusionary.~16. Have been exposed to a monoclonal
+antibody targeting AÎ² peptide within the past 6 months or 5 half-lives from screening, whichever is
+longer.~17. Received any other investigational pharmacological treatment within 3 months of Screening or 5
+half-lives, whichever is longer.~ Note: Use of approved treatments for AD and other medications may be
+permitted in this study.~18. Lack of sufficient venous access.~19. Clinically relevant abnormalities in
+hematology, coagulation, or clinical chemistry.~20. History of cancer that the investigator believes has high
+risk of recurrence and impacting study participation or analysis.~21. Any other medical condition that could be
+expected to progress, recur, or change to such an extent that it could bias the assessment of the clinical or
+mental status of the participant to a significant degree or put the participant at special risk.~22. Currently,
+or within the last month prior to screening, participated in a clinical study, including a nonpharmacological
+study, without prior approval.~23. Participants with the Dutch APP E693Q mutation.~24. Unable to complete
+baseline visit (V2) procedures with appropriate cognitive and clinical scores for eligibility~25. A centrally
+read MRI demonstrating presence of ARIA-E, > 4 cerebral microhemorrhages, any superficial siderosis, any
+macrohemorrhage, or severe white matter disease at screening.~26. Exposure to lecanemab, donanemab, or other
+investigational amyloid lowering agents within the past 6 months or five half-lives from screening, whichever
+is longer.~ Note: Use of approved treatments for AD and other medications may be permitted.~27. Investigator
+site personnel directly affiliated with this trial and/or their immediate families, defined as a spouse,
+parent, child, or sibling, whether biological or legally adopted~28. Lilly employees or employees of a
+third-party organization (TPO) involved in this study that requires exclusion of their employees or have study
+partners who are Lilly employees or are employees of TPOs involved in this study that require exclusion of
+their employees

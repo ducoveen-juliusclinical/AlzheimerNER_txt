@@ -1,0 +1,5 @@
+Exclusion Criteria:~* Current use or use within 3 months of Visit 3 (Baseline), of medium chain triglyceride
+-containing products.~* Completed less than 6 years of formal education.~* Has any medical or neurological
+condition, other than AD, that could explain the subject's dementia (e.g., structural abnormality, traumatic
+brain injury, stroke, epilepsy, Parkinson's disease, alcohol-related dementia)~* Has a modified Hachinski
+Ischaemia score > 4

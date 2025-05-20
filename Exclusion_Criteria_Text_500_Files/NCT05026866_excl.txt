@@ -1,0 +1,18 @@
+Exclusion Criteria:~* Mild cognitive impairment or dementia, or significant other neurodegenerative disease
+that can affect cognition.~* Current serious or unstable illnesses including cardiovascular, hepatic, renal,
+gastroenterologic, respiratory, endocrinologic, neurologic, psychiatric, immunologic, or hematologic disease
+that could interfere with the analysis of the study or a life expectancy of approximately ≤5 years.~* History
+of cancer with high risk of recurrence and preventing completion of the trial.~* History of clinically
+significant multiple or severe drug allergies, or severe posttreatment hypersensitivity reactions (including
+but not limited to erythema multiforme major, linear immunoglobulin A dermatosis, toxic epidermal necrolysis,
+and/or exfoliative dermatitis).~* Have any clinically important abnormality at screening on magnetic resonance
+imaging (MRI) or clinical laboratory test results that could be detrimental to the participant or study
+integrity.~* Have any contraindications for MRI, including claustrophobia or the presence of contraindicated
+metal (ferromagnetic) implants/cardiac pacemaker.~* Have a centrally read MRI demonstrating presence of
+amyloid-related imaging abnormalities (ARIA-E), >4 cerebral microhemorrhages, more than 1 area of superficial
+siderosis, any macrohemorrhage or severe white matter disease at screening.~* Have had prior treatment with a
+passive anti-amyloid immunotherapy <5 half-lives prior to randomization.~* Have received active immunization
+against amyloid beta (AÎ²) in any other study.~* Have received active immunization against AÎ² in any other
+study.~* Current or previous use of prescription medications used as treatment for mild cognitive impairment
+(MCI) or AD.~Addendum 7 Exclusion Criteria for Clinicaltrials.gov:~* Same as the main study except
+contraindications for florbetapir F 18 PET are exclusionary.

@@ -1,0 +1,72 @@
+Exclusion Criteria:~1. Subjects who are on anti-amyloid therapy (i.e. vaccine or antibody) or who were
+receiving anti-amyloid vaccines (i.e. aducunamab) or anti-tau vaccines less than 3 months before Screening.~2.
+Women of childbearing potential (WCBP). NOTE: All females will be considered to be of childbearing potential
+unless they are postmenopausal or have been sterilized surgically (i.e., bilateral tubal ligation, total
+hysterectomy, or bilateral oophorectomy, all with surgery at least 1 month before dosing).~3. Any neurological
+condition that may be contributing to cognitive impairment above and beyond that caused by the subject's AD.~4.
+Any psychiatric diagnosis or symptoms, (e.g., hallucinations, major depression, or delusions) that could
+interfere with study procedures in the subject.~5. Geriatric Depression Scale (GDS) score greater than or equal
+to 8 at Screening.~6. Contraindications to MRI scanning, including cardiac pacemaker/defibrillator,
+ferromagnetic metal implants (e.g., in skull and cardiac devices other than those approved as safe for use in
+MRI scanners).~7. Evidence of other clinically significant lesions on brain MRI that could indicate a dementia
+diagnosis other than AD.~8. Other significant pathological findings on brain MRI, including but not limited to:
+more than 4 micro hemorrhages (defined as 10mm or less at the greatest diameter); a single macro hemorrhage
+greater than 10mm at greatest diameter; an area of superficial siderosis; evidence of vasogenic edema; evidence
+of cerebral contusion, encephalomalacia, aneurysms, vascular malformations, or infective lesions; evidence of
+multiple lacunar infarcts or stroke involving a major vascular territory, severe small vessel, or white matter
+disease; space occupying lesions; or brain tumors (however, lesions diagnosed as meningiomas or arachnoid cysts
+and less than 1cm at their greatest diameter need not be exclusionary).~9. Patients with hypokalemia,
+hypomagnesaemia, or long QT syndrome- QTc≥481 ms~10. Concomitant drugs known to prolong the QTc interval and
+history of any cardiovascular disease, including myocardial infraction or cardiac failure, angina,
+arrhythmia~11. Presence of cardiac conditions including:~ 1. Cardiovascular or cerebrovascular event (e.g.
+myocardial infarction, unstable angina, or stroke)~ 2. Congestive heart failure~ 3. Second- or third-degree
+atrioventricular block, sick sinus syndrome, or other serious cardiac rhythm disturbances~ 4. Any history of
+Torsade de Pointes~12. Treatment with any of the following drugs at the time of Screening or the preceding 30
+days, and/or planned use over the course of the trial:~ 1. Treatment with Class IA or III antiarrhythmic drugs
+(e.g. quinidine)~ 2. Treatment with QT prolonging drugs (www.crediblemeds.org)- excluding Selective Serotonin
+Reuptake Inhibitors (SSRIs) (e.g. Citalopram, Paxil, Zoloft, Cymbalta, Sertraline, etc...)~ 3. Strong CYP3A4
+inhibitors (including grapefruit juice). The concomitant use of strong CYP3A4 inhibitors (e.g., ketoconazole,
+itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir,
+telithromycin, voriconazole) must be avoided. Grapefruit products may also increase serum concentrations of
+Nilotinib (Tasigna). Should treatment with any of these agents be required, therapy with Nilotinib BE should be
+interrupted.~ 4. Anticoagulants, including Coumadin (warfarin), heparin, enoxaparin, daltiparin, xarelto,
+etc.~13. St. John's Wort and the concomitant use of strong other CYP3A4 inducers (e.g., dexamethasone,
+phenytoin, carbamazepine, rifampin, rifabutin, rifapentine, phenobarbital) must be avoided since these agents
+may reduce the concentration of Nilotinib.~14. Any immunological disease which is not adequately controlled, or
+which requires treatment with immunoglobulins, systemic monoclonal antibodies (or derivatives of monoclonal
+antibodies), systemic immunosuppressant's, or plasmapheresis during the study.~15. Subjects with a bleeding
+disorder that is not under adequate control (including a platelet count <50,000 or international normalized
+ratio \[INR\] >1.5 for subjects who are not on anticoagulant treatment, e.g., warfarin). Subjects who are on
+anticoagulant therapy should have their anticoagulant status optimized and be on a stable dose for 4 weeks
+before Screening.~16. Have thyroid stimulating hormone above normal range. Other tests of thyroid function with
+results outside the normal range should only be exclusionary if they are considered clinically significant by
+the investigator. This applies to all subjects whether or not they are taking thyroid supplements.~17.
+Abnormally low serum vitamin B12 levels for the testing laboratory (if subject is taking vitamin B12
+injections, level should be at or above the lower limit of normal \[LLN\] for the testing laboratory).~18.
+Known to be human immunodeficiency virus (HIV) positive.~19. Any other clinically significant abnormalities in
+physical examination, vital signs, laboratory tests, or ECG at Screening or Baseline which in the opinion of
+the investigator require further investigation or treatment or which may interfere with study procedures or
+safety.~20. Subjects with malignant neoplasms within 3 years of Screening (except for basal or squamous cell
+carcinoma in situ of the skin, or localized prostate cancer in male subjects). Subjects who had malignant
+neoplasms but who have had at least 3 years of documented uninterrupted remission before Screening need not be
+excluded.~21. Answer yes to C-SSRS suicidal ideation Type 4 or 5, or any suicidal behavior assessment within 6
+months before Screening, at Screening, or at the Baseline Visit, or has been hospitalized or treated for
+suicidal behavior in the past 5 years before Screening.~22. Known or suspected history of drug or alcohol abuse
+or dependence within 2 years before Screening.~23. Any other medical conditions (e.g., cardiac, respiratory,
+gastrointestinal, renal disease) which are not stably and adequately controlled, or which in the opinion of the
+investigator(s) could affect the subject's safety or interfere with the study assessments.~24. Subjects who are
+taking prohibited medications.~25. Participation in a clinical study involving any anti-amyloid therapies
+(including any monoclonal antibody therapies and any Î²-site amyloid precursor protein cleaving enzyme \[BACE\]
+inhibitor therapies) unless it can be documented that the subject only received placebo.~26. Subjects who were
+dosed in a clinical study involving any new chemical entities for AD within 3 months prior to Screening unless
+it can be documented that the subject only received placebo.~27. Participated in any other investigational
+medication or device study in the 8 weeks or 5 half-lives (whichever is longer) of the medication before
+randomization unless it can be documented that the subject only received placebo.~28. Planned surgery which
+requires general anesthesia that would take place during the study. Planned surgery which requires only local
+anesthesia and which can be undertaken as day case without inpatient stay postoperatively need not result in
+exclusion if in the opinion of the investigator this operation does not interfere with study procedures and
+subject safety.~29. Severe visual or hearing impairment that would prevent the subject from performing
+psychometric tests accurately.~30. Any concomitant medication or medication excluded that could put subject at
+risk, or interfere with study evaluations~31. Exclusion criteria specific for the biomarker sub-study:~ *
+Contraindications to LP: prior lumbosacral spine surgery, severe degenerative joint disease or deformity of the
+spine, platelets < 100,000, use of Coumadin/warfarin, or history of a bleeding disorder.

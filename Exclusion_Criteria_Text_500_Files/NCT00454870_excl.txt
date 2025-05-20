@@ -1,0 +1,6 @@
+Exclusion Criteria:~* Head trauma associated with cognitive impairment~* Evidence of significant neurological
+disease other than AD, such as Parkinson's disease, multi-infarct dementia, Huntington's disease, normal
+pressure hydrocephalus, CNS tumor, progressive supranuclear palsy, seizure disorder, etc.~* Received AChE
+inhibitor therapy (e.g., rivastigmine, tacrine or galantamine) or NDMA-receptor antagonist, memantine, within
+30 days or donepezil within 40 days of randomization~* Received any investigational drug within 2 months of
+randomization or treatment with other nicotinic receptor agonists within 3 months of screening

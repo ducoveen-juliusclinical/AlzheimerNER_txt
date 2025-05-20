@@ -1,0 +1,8 @@
+Exclusion Criteria:~* Brain magnetic resonance imaging (MRI) indicative of significant abnormality per central
+reader, other than AD related atrophy. Computed tomography (CT) scan acceptable for subjects who cannot undergo
+MRI.~* Diagnosis of neurodegenerative disorder other than AD.~* Diagnosis of major depressive disorder (MDD)
+within one year prior to screening.~* Currently taking memantine or has taken memantine within 12 weeks prior
+to the Baseline Visit.~* History of suicidal behavior within one year prior to screening or has ongoing
+suicidal ideation.~* History of seizures, excluding febrile seizures of childhood or a single distant seizure
+(> 5 years).~* Medically confirmed history of recent cerebral infarct or transient ischemic attack within one
+year prior to screening.

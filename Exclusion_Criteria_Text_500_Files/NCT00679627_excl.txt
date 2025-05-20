@@ -1,0 +1,3 @@
+Exclusion Criteria:~* Neurodegenerative disorders other than AD, such as Parkinson's Disease, Frontotemporal
+Dementia or Huntington's disease~* Any of specified conditions which may contribute to dementia~* any of
+specified coexisting diseases, including significant cardiovascular disease.

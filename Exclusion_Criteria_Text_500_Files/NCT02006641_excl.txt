@@ -1,0 +1,6 @@
+Exclusion Criteria:~* The patient has evidence of any clinically significant neurodegenerative disease, or
+other serious neurological disorders other than AD.~* The patient has a Diagnostic and Statistical Manual of
+Mental Disorders, 4th edition, Text Revision (DSM-IV-TR) Axis I disorder other than AD.~* The patient has
+evidence of clinically significant disease.~* The patient's donepezil therapy is likely to be interrupted or
+discontinued during the study.~* The patient is currently receiving memantine or has taken memantine within 2
+months prior to screening.~Other inclusion and exclusion criteria may apply.

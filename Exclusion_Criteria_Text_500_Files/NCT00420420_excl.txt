@@ -1,0 +1,4 @@
+Exclusion Criteria:~* Patients cannot be living in a skilled nursing facility~* Patients cannot have
+poorly-controlled hypertension~* Patients cannot have the following conditions within 6 months of screening:
+significant cardiovascular disorders, active major depressive disorder, gastroesophageal reflux disease (GERD),
+or clinically significant sleep disorder~* Various concomitant therapy restrictions

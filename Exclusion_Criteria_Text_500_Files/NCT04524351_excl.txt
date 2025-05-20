@@ -1,0 +1,28 @@
+Exclusion Criteria~Subjects meeting any of the following criteria must not be included in the study:~1. Has a
+history of a psychiatric disorder such as schizophrenia, bipolar disorder or major depression according to the
+criteria of the most current version of the Diagnostic and Statistical Manual of Mental Disorders (DSM). Mild
+depression or history of depression that is stable on treatment with a SSRI or SNRI medication at a stable dose
+is acceptable.~2. History of a seizure disorder.~3. Has a history or current evidence of long QT syndrome,
+Fridericia's formula corrected QT (QTcF) interval ≥ 450ms, or torsades de pointes.~4. Has bradycardia (<50 bpm)
+or tachycardia (>100 bpm) on the ECG at screening.~5. Has uncontrolled Type-1 or Type-2 diabetes . A Subject
+with HbA1c levels up to 7.5% can be enrolled if the investigator believes the subject's diabetes is under
+control.~6. Has clinically significant renal or hepatic impairment.~7. Has any clinically significant abnormal
+laboratory values. Subjects with liver function tests (aspartate aminotransferase \[AST\] or alanine
+aminotransferase \[ALT\]) greater than twice the upper limit of normal will be excluded.~8. Is at imminent risk
+of self-harm, based on clinical interview and responses on the C SSRS, or of harm to others in the opinion of
+the Investigators. Subjects must be excluded if they report suicidal ideation with intent, with or without a
+plan or method (e.g. positive response to Items 4 or 5 in assessment of suicidal ideation on the C SSRS) in the
+past 2 months, or suicidal behavior in the past 6 months.~9. Has four or more signal hypointensities on
+T2\*-weighted gradient recalled echo magnetic resonance sequences that are thought to represent hemosiderin
+deposits including microhemorrhages and superficial siderosis or evidence of acute or sub-acute micro or
+microhemorrhage as noted on the MRI scan.~10. Has cancer or has had a malignant tumor within the past year,
+except patients who underwent potentially curative therapy with no evidence of recurrence. (Patients with
+stable untreated prostate cancer or skin cancers are not excluded).~11. Alcohol / Substance use disorder,
+moderate to severe, in the last 5 years according to the most current version DSM.~12. Participation in another
+clinical trial with an investigational agent and have taken at least one dose of study medication, unless
+unblinded on placebo, within 60 days prior to the start of screening. (The end of a previous investigational
+trial is the date the last dose of an investigational agent was taken), or five half-lives of the
+investigational drug, whichever is greater.~13. Subjects with infection or inflammation of the skin or skin
+disease at or in proximity to the lumbar puncture site.~14. History of lumbar spine surgery or chronic low back
+pain (CLBP).~15. Subjects with learning disability or developmental delay.~16. Subjects whom the site PI deems
+to be otherwise ineligible.

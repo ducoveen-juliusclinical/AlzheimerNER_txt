@@ -1,0 +1,6 @@
+Exclusion Criteria:~* Patients with a diagnosis of Parkinson's Disease, Pick's Disease, Huntington's Chorea,
+Creutzfeld-Jacob disease, Down's syndrome, brain cancer, mental retardation, epilepsy, psychiatric disease,
+liver, kidney or heart failure, significant heart, lung, digestive, hormone or mental disease or Vitamin B
+deficiency~* Patients with previous severe head injury or blood clot in the brain~* Patients who are
+hospitalized, living in nursing homes or residential care facilities~* Patients with brain infections such as
+abscess, meningitis, encephalitis~* Patients with a history of drug or alcohol abuse

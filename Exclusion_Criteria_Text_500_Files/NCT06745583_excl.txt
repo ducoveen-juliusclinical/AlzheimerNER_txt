@@ -1,0 +1,31 @@
+Exclusion Criteria:~1. Body weight ≥ 150 kg or body mass index (BMI) ≥ 35 kg/mÂ² at the screening visit.~2.
+Prior use of pexidartinib (Turalio), other chemical entities, or any biologic treatment targeting colony
+stimulating factor 1 (CSF-1) or the CSF-1 receptor within 3-month of the first dose with EI-1071; previous uses
+of oral tyrosine kinase inhibitors are allowed (e.g., imatinib or nilotinib).~3. AD patients with low binding
+affinity for tracer TSPO rs6971 SNP polymorphism at screening~4. Pregnant, breast feeding or plan to be
+pregnant women during the study period~5. Active tuberculosis (TB), active or chronic infection with hepatitis
+B virus (HBV) or hepatitis C virus (HCV) or known active or chronic infection with human immunodeficiency virus
+(HIV) at screening or in the medical history.~6. Any medical or neurological/neurodegenerative condition
+(including mental deficit, intracranial tumor, glioma or meningioma; head trauma, Lewy body dementia; other
+disease than AD) that, in the opinion of the Investigator, might be a contributing cause to the participant's
+cognitive impairment or could lead to discontinuation, lack of compliance, interference with study assessments,
+or safety concerns~7. Clinically significant, unstable psychiatric illness or have contraindications to brain
+magnetic resonance imaging (MRI) or PET scans~8. Have had a stroke or Transient Ischemic Attack (TIA),
+unexplained loss of consciousness or relevant brain hemorrhage, bleeding disorder and cerebrovascular
+abnormalities in the past year based on medical history (with MRI imaging results as confirmation in the
+medical history) at screening. Subjects with clinically relevant cerebrovascular abnormalities in MRI will be
+excluded per PI's discretion.~9. Evidence of clinically significant gastrointestinal, cardiovascular, hepatic,
+renal, hematological, neoplastic, endocrine (including poor-controlled T2DM), neurological, immunodeficiency,
+pulmonary, or other disorder or disease at the screening visit (such as neurological or cognitive
+impairment/decline due to substance abuse, vitamin B12 deficiency, abnormal thyroid function, or other
+underlying condition might contribute to cognitive, functional or behavioral impairment will be excluded) by
+investigator's judgment at screening; subjects who have to be fed by enteral tube will be excluded.~10. History
+of or ongoing malignancy or carcinoma (either concurrent or within the last year of starting study treatment)
+that requires therapy (e.g., surgical, chemotherapy, or radiation therapy), except for adequately treated basal
+or squamous cell carcinoma of the skin, melanoma in-situ, carcinoma in-situ of the cervix or breast~11.
+Currently participating in any other clinical study or have participated in clinical trial within the last 60
+days prior to screening; had donated blood (≥ 250 mL) within 30 days at screening.~12. Known allergy to EI-1071
+or hypersensitivity to any component of the formulation (e.g., hydroxypropyl methylcellulose acetate succinate)
+or hypersensitivity to any radiochemical tracer or \[Â¹â¸F\]FEPPA radiochemical tracer~13. Required to use
+strong inhibitors or inducers of cytochrome P450 3A4 (CYP3A4) and is anticipated to use these inhibitors or
+inducers during the study period

@@ -1,0 +1,46 @@
+Exclusion Criteria:~1. Dementia caused by other reasons: Vascular dementia, central nervous system infection
+(e.g., AIDS, syphilis), Creutzfeldt-Jakob disease, Huntington's disease, Parkinson's disease, Lewy body
+dementia, brain trauma dementia, other physical and chemical factors (e.g., drug poisoning, alcohol poisoning,
+carbon monoxide poisoning), important corporeal diseases (e.g., hepatic encephalopathy, pulmonary
+encephalopathy), intracranial space-occupying lesions (e.g., subdural hematoma, brain tumors), endocrine system
+disorders (e.g., thyroid disease, parathyroid disease ) and dementia due to vitamin deficiency or any other
+known causes;~2. Previously had/currently has nervous system disorder (including Neuromyelitis optica,
+Parkinson's disease, epilepsy);~3. Mental disorders confirmed according to the Diagnostic and Statistical
+Manual of Mental Disorders, Fifth Edition (DSM-5), including schizophrenia or other mental illness, bipolar
+disorder, major depression, or delirium;~4. Laboratory test abnormalities at screening visit and baseline:
+Liver function (alanine aminotransferase \[ALT\] and aspartate aminotransferase \[AST\]) > 2-fold the upper
+limit of normal (ULN); Kidney function (creatinine \[Cr\]) > 1.5-fold the ULN; Creatine kinase (CK) > 2-fold
+the ULN; Patients with values that slightly exceed these ranges but are not clinically significant may be
+included as assessed by the investigator;~5. Presence of any one of the following infections at the screening
+visit:~(1) Positive for hepatitis B surface antigen (HBsAg) and/or hepatitis B core antibody (HBcAb) and
+positive for hepatitis B virus deoxyribonucleic acid (HBV-DNA) (exceeding the upper limit of the normal range
+of the study site); (2) Positive for anti-hepatitis C virus (HCV) antibody (Ab); (3) Positive for human
+immunodeficiency virus (HIV) Ab; (4) Positive for Treponema pallidum (TP) Ab;~6. Presence of other active and
+poorly managed systemic bacterial, viral, fungal, or parasitic infections (except for fungal nail infection) at
+the screening visit, or other clinically significant active infections that render the subject unsuitable for
+study participation as assessed by the investigator;~7. Systolic blood pressure (SBP) ≥ 160 mmHg or < 90 mmHg
+or diastolic blood pressure (DBP) ≥ 100 mmHg or < 60 mmHg at the screening visit and baseline; Patients with
+SBP or DBP that slightly exceed this range but is not clinically significant may be included as assessed by the
+investigator;~8. Prolonged corrected QTc interval (Fridericia formula, Appendix 14.1) in the 12-lead
+electrocardiography (ECG) at screening visit and baseline: Fridericia corrected QT interval (QTcF) > 450 ms for
+males and > 470 ms for females or other clinically significant ECG abnormalities that render the subject
+unsuitable for study participation (e.g., heart rate < 50 beats/min, sinus node dysfunction, Mobitz II or
+third-degree atrioventricular block);~9. Patients with unstable or severe cardiovascular, respiratory,
+digestive, urinary, hematologic, or endocrine disorders within 6 months prior to the screening visit, including
+pancreatitis, severe/unstable angina, myocardial infarction, symptomatic congestive heart failure,
+life-threatening ventricular arrhythmia requiring maintenance therapy, pulmonary hypertension, respiratory
+failure, previous hypoglycemia coma, unstable blood glucose control in diabetic patients, and stroke (including
+transient ischemic attack), and are unsuitable for study participation as assessed by the investigator;~10.
+Presence of gastrointestinal disorder that, as assessed by the investigator, can impact drug absorption or
+metabolism within 6 months prior to the screening visit;~11. Underwent major surgery within 6 months prior to
+the screening visit that renders the patient unsuitable for enrollment or planning to undergo major surgery
+during the study;~12. Suffered from a malignant tumor within 3 years prior to the screening visit (excluding
+resected basal cell carcinoma or cutaneous squamous cell carcinoma , and/or resected carcinoma in situ);~13.
+Received other traditional Chinese or Western nootropic medications/treatments within 4 weeks prior to
+baseline;~14. Use of strong CYP3A4 inhibitor or strong CYP3A4 inducer within 4 weeks or 5 half-lives (whichever
+is longer) prior to baseline;~15. Received other investigational drugs within 4 weeks prior to baseline;~16.
+Received vaccines within 4 weeks prior to baseline;~17. Alcohol abuse or drug abuse within 1 year prior to the
+screening visit;~18. History of severe allergy, non-allergic drug reaction or multiple drug allergy, or known
+history of allergy to 50561 tablet and its excipients;~19. Lacks adequate premorbid literacy, adequate vision,
+or adequate hearing to complete the required psychometric tests;~20. Breastfeeding women;~21. Other conditions
+that render the subject unsuitable for study participation as assessed by the investigator.

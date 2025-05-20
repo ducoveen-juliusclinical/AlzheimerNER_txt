@@ -1,0 +1,31 @@
+Exclusion Criteria:~ANY one of the following will exclude a subject from being enrolled into the study:~1.
+Significant neurological disease other than AD that may affect cognition.~2. Screening visit brain MRI scan
+(ie, Study 201 Visit 21 (Week 71), or for Study 102, the Study 251 Screening Visit) indicative of any other
+significant abnormality including but not limited to multiple microhemorrhages or evidence of a single prior
+hemorrhage >1 cm3, multiple lacunar infarcts or evidence of a single prior infarct >1 cm3, evidence of a
+cerebral contusion, encephalomalacia, arachnoid cysts, or brain tumors (eg, meningioma) unless approved by the
+medical monitor.~3. Current presence of a clinically significant major psychiatric disorder according to the
+criteria of the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM IV) or any
+clinically significant symptom that could affect the subject's ability to participate in the study.~4. Current
+clinically significant systemic illness that is likely to result in deterioration of the subject's condition or
+affect the subject's safety during the study.~5. History of clinically evident stroke or history of clinically
+significant carotid or vertebrobasilar stenosis or plaque.~6. History of seizures, excluding febrile seizures
+in childhood.~7. Weight greater than 120 kg (264 lbs).~8. History or evidence of any clinically significant
+autoimmune disease or disorder of the immune system.~9. Clinically significant infection within the last 30
+days (eg, chronic persistent or acute infection).~10. Treatment with immunosuppressive medications (eg,
+systemic corticosteroids) within the last 90 days (topical and nasal corticosteroids and inhaled
+corticosteroids for asthma are permitted) or chemotherapeutic agents for malignancy within the last three
+years.~11. Myocardial infarction within the last two years.~12. History of cancer within the last five years,
+with the exception of basal cell carcinoma, and nonmetastatic squamous cell carcinoma of the skin.~13. Other
+clinically significant abnormality on screening (ie, Study 201 Visit 22 \[Week 78\], or Study 102 Visit 11
+\[Week 16\]) physical, neurological, laboratory, or ECG examination (eg, atrial fibrillation) that could
+compromise the study or be detrimental to the subject.~14. Hemoglobin less than 11 g/dL at screening (ie, Study
+201 Visit 22 \[Week 78\], or Study 102 Visit 11 \[Week16\]).~15. Smoking more than 20 cigarettes per day.~16.
+History of alcohol or drug dependence or abuse within the last two years.~17. Current use of anticonvulsant for
+seizures, anti-Parkinson's, anticoagulant (excluding the use of aspirin 325 mg/day or less), or narcotic
+medications.~18. Any prior experimental treatment with AN1792 or other experimental immunotherapeutic or
+vaccine for AD (other than bapineuzumab).~19. Any known hypersensitivity to any of the excipients contained in
+the study drug formulation.~20. Women of childbearing potential.~21. Presence of pacemakers, aneurysm clips,
+artificial heart valves, ear implants, cerebrospinal fluid (CSF) shunts, metal fragments or foreign objects in
+the eyes, skin, or body that would contraindicate a brain MRI scan (unless otherwise approved by the Sponsor
+and/or its designees).

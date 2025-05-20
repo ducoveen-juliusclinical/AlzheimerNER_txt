@@ -1,0 +1,5 @@
+Exclusion Criteria~* Any evidence of a condition that may affect cognition other than AD.~* Contraindications
+to PET imaging.~* Inability to tolerate or contraindication to magnetic resonance imaging.~* Any serious
+medical condition that could, in the opinion of the investigator, affect the participant's safety or interfere
+with study assessments.~* Geriatric Depression Scale (GDS) score greater than or equal to 8 at screening.~*
+Other protocol-defined Inclusion/Exclusion criteria apply.

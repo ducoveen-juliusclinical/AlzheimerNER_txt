@@ -1,0 +1,8 @@
+Exclusion Criteria:~* The subject has any significant neurologic disease other than suspected aMCI; such as
+Parkinson's disease, Huntington's disease, normal pressure hydrocephalus, brain tumor, supranuclear palsy,
+seizure disorder, subdural hematoma, multiple sclerosis, or history of significant head trauma followed by
+persistent neurologic deficits, or known structural brain abnormalities.~* The subject has one or more aneurysm
+clips, artificial heart valves, metal implants, embedded metal fragments or pacemakers that would pose a risk
+during an MRI.~* The subject has major depression, bipolar disorder, as described in the DSM-IV within the past
+year.~* The subject has history of schizophrenia (DSM-IV criteria).~* The subject has had, within the prior 3
+months, psychotic features, agitation or behavioral problems that could lead to protocol compliance issues.

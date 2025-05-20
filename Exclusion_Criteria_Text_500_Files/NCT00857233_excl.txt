@@ -1,0 +1,2 @@
+Exclusion Criteria:~* Diseases/medication which judged by the investigator could interfere with the assessments
+of safety, tolerability or efficacy.

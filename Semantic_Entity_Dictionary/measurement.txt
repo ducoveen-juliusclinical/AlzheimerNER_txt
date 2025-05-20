@@ -1,0 +1,125 @@
+entity
+mini mental state exam (mmse) score
+mini-mental status examination score (mmse)
+mini mental status score
+mini mental state examination (mmse)
+mmse score
+new york university paragraph recall test
+mmse
+mini mental state examination (mmse) score
+mini-mental state examination (mmse)
+hachinski ischemia score
+qtc (either qtc b (bazett's correction) or qtc f (fridericia's correction))
+subjects with bundle branch block (for whom either qtc b or qtc f
+mini-mental state examination (mmse) score
+mini mental status (mms)
+clinical dementia rating (cdr)
+laboratory
+smmse
+geriatric depression scale (gds) - score
+laboratory values
+hachinski ischaemic score
+mse score
+cdr(clinical dementia rating) score
+gds(global deterioration scale)
+mri
+cdr
+mini-mental state examination score
+mini-mental state examination (mmse) scores
+modified hachinski ischemia score (his)
+hachinski ischemic score
+hamilton depression scale
+vital signs
+laboratory profile
+clinical dementia rating
+modified hachinski score
+genetic testing
+mini-mental stage examination (mmse)
+serum thyroid stimulating hormone (tsh)
+b12 levels
+standardised mini-mental state examination (smmse) score
+resting office based bp measurements
+abpm measurement
+laboratory tests
+clinical laboratory tests
+geriatric depression scale
+modified hachinski
+modified hachinski ischemic scale (mhis) score
+mini mental state exam (mmse-2) score
+mean resting systolic blood pressure
+clinical dementia rating (cdr)-global score
+body weight
+bmi
+csf
+hachinski ischemia scale score
+logical memory subscale (delayed paragraph recall, paragraph a only) from the wechsler memory scale-revised
+montreal cognitive assessment (moca)
+clinical dementia rating scale /memory sum box score
+cerebrospinal fluid (csf)
+geriatric depression score (gds)
+modified hachinski ischemia score
+cerebrospinal fluid
+anti-hsv (herpes simplex virus) immunoglobulin g (igg) in plasma
+allele 4 of gene apolipoprotein
+clinical dementia rating scale (cdr) global score
+cdr memory box score
+modified hachinski ischemia scale score
+clinical dementia rating-global scale score
+modified hachinski ischemia scale (mhis) score
+moca
+csf ad biomarkers
+mini-mental examination (mmse) scores
+clinical dementia rating (cdr) score
+modified hachinski ischemic score
+hamilton psychiatric rating scale for depression score
+clinical dementia rating scale/cdr
+body mass index (bmi)
+blood cell counts
+wbcs
+absolute neutrophil count
+platelets
+hemoglobin
+ast
+total bilirubin
+cholesterol
+triglycerides
+hba1c
+pt/ptt/inr
+apoe
+columbia-suicide severity rating scale [c-ssrs])
+columbia suicide severity rating scale (c-ssrs)
+mmse scores
+blood test (including ionogram, kidney and liver function, calcemia, crp, tsh, b12 vitamins and folates)
+clinical dementia rating global score (cdr-gs)
+(mini mental status examination (mmse
+clinical dementia rating scale (cdr)
+california verbal learning test iii (cvlt-iii) delayed recall
+liver
+renal function
+fasting lipid panel
+prothrombin time/prothrombin time test/international normalized ration (pt/ptt/inr)
+clinical dementia rating-global score (cdr-gs)
+medial temporal atrophy scale (mta
+moca score
+csf assay
+cdr global score
+digit symbol substitution test (dsst)
+montreal cognitive assessment (moca) score
+pittsburgh sleep quality index score
+memory performance
+repeatable battery for the assessment of neuropsychological status (rbans) list recall
+k-mmse score
+gds (global deterioration scale)
+mri or ct scan
+mini-mental (mmse) score
+p-tau
+csf biomarkers
+cdr (clinical dementia rating scale)
+cdr global rating
+rbans score
+plasma amyloid-beta test
+pittsburgh sleep quality index
+clinical dementia rating (cdr) global score
+delayed recall portion of the islt
+blood-based biomarker
+apolipoprotein e genotype

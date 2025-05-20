@@ -1,0 +1,6 @@
+Exclusion Criteria:~* Subject has history or evidence of significant neurologic disease other than AD~* Subject
+has a history of stroke~* Subject has been treated for schizophrenia or recurrent mood disorder within the
+previous three years~* Subject has a hematologic or solid malignancy diagnosed within five years prior to study
+entry~* Subject has medically unstable COPD or asthma~* Subject has end stage CHF (NYHA Class III or IV) or
+unstable angina~* Subject has evidence of significant renal insufficiency~* Subject has insulin-dependent
+diabetes mellitus or HbA1C>8.5% at screening

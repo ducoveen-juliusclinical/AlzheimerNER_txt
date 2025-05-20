@@ -1,0 +1,40 @@
+Exclusion~1. Inability to comply with visit schedule or other protocol requirements.~2. Have participated in an
+investigational drug or device study within 30 days of the Baseline Visit. If previous investigational drug was
+a monoclonal antibody, antibody-drug conjugate, or similar protein therapeutic, 180 days or 5 half-lives,
+whichever occurs first.~3. Have a known allergy to any ingredient in the study drug formulation.~4. Have a body
+weight greater than 125 kg.~5. Are a suicide risk, as determined by meeting any of the following criteria:~ 1.
+Suicide attempt within one year prior to the Baseline Visit.~ 2. Suicidal ideation as defined by a positive
+response to question 4 and 5 on the C-SSRS within 60 days of the Baseline Visit.~6. Have a history of substance
+abuse (based on DSMIV criteria) within the past 12 months prior to Screening.~7. Significant acute or chronic
+infection at Screening including, among others: Known history of human immunodeficiency virus (HIV) or known
+acquired immunodeficiency syndrome. Hepatitis B virus (HBV) or hepatitis C virus (HCV) infection (defined as,
+HBV surface antigen positive or positive HCV antibody with reflex to positive HCV RNA) at Screening.~8. Have
+clinically significant laboratory or ECG abnormalities at Screening in the opinion of the Investigator.~9. Have
+clinically relevant hematologic, hepatic, cardiac, or renal disease.~10. Have a clinically significant medical,
+surgical, laboratory, or behavioral abnormality which in the judgment of the Investigator makes the participant
+unsuitable for the study, as well as anyone with a history of malignancy of any type within 2 years of
+Screening. Persons with a history of surgically excised non-melanoma skin cancers, superficial bladder or
+prostate cancer are permitted.~11. Participants who have a diagnosis of a neurological condition causing
+cognitive impairment other than sporadic mild dementia due to AD (e.g., Lewy body disease or frontotemporal
+dementia), a primary psychiatric diagnosis (e.g., Cognitive Impairment due to Schizophrenia, CIAS), history of
+frequent concussions or significant findings on brain MRI at screening inconsistent with AD (e.g.,
+cerebrovascular disease or tumor).~12. Have any of the following conditions (which would exclude MRI or PET
+participation):~ 1. Participants deemed unable to cooperate due to claustrophobia, inability to lie on scanner
+bed for 45 minutes, or inability to achieve venous access sufficient for tracer or pepinemab administration.~
+2. An implant/device/condition that is contraindicated for MRI (e.g., pacemaker, severe claustrophobia,
+prosthetic heart valve, any metal fragments in the eyes or body--in some cases, an X-ray may be needed before
+an MRI scan, to ensure it is safe to enter the scanner).~ 3. Body habitus that would impede completion of
+imaging scans.~13. Has an MRI scan obtained at Screening that shows evidence of a neurological disorder other
+than early AD or > 4 cerebral microhemorrhages (regardless of their anatomical location or diagnostic
+characterization as possible or definite), a single area of superficial siderosis,~14. Any other clinically
+significant finding on MRI (e.g., any lesion that may account for their cognitive impairment, including but not
+limited to brain tumor, severe white matter disease arteriovenous malformation, cavernous hemangioma, or any
+infarct in a strategic cortical or subcortical location).~15. Are undergoing FDG-PET and have received
+research-related radiation exposure that exceeds institutional guidelines in the prior year if applicable.~16.
+Are undergoing a LP for CSF collection and have any of the following conditions: uncorrected bleeding or
+clotting disorders, skin infections near the site of the LP, suspicion of increased intracranial pressure,
+allergies to numbing medications (local anesthetics), acute spinal trauma.~17. Are undergoing a LP for CSF
+collection and taking any of the following types of anticoagulants: coumarins and indandiones, Factor Xa
+inhibitors, heparins, or thrombin inhibitors.~18. Has received treatment with any FDA accelerated approval
+therapy for treatment of Alzheimer's Disease~19. Has a Screening MRI that shows Amyloid-related imaging
+abnormalities edema (ARIA-E)

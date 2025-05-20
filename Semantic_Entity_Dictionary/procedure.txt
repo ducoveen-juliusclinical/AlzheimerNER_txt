@@ -1,0 +1,51 @@
+entity
+brain ct or mri scan
+neurological exam without focal changes
+brain image(computerized axial tomographic scan -cat scan or magnetic resonance imaging - mri)
+neurological examination
+ecg
+brain mri
+mri scan of the brain
+brain imaging
+brain ct or mri
+magnetic resonance imaging [mri] or computed tomography [ct]
+ct or mri scan
+neurologic examination
+physical examination
+12-lead ecg
+neuroimaging (pet and mri
+internist's physical exam
+neurological exam
+magnetic resonance imaging (mri) scan
+18f-florbetapir scan
+magnetic resonance imaging (mri) or computed tomography (ct) scan
+positron emission tomography (pet)
+amyloid pet scan
+neuroimaging (computerized tomography (ct) or magnetic resonance imaging (mri))
+amyloid positron emission tomography (pet) scan
+amyloid scan (pib-pet)
+neuroimaging (mri)
+ct, mr, spect or pet/ct
+pet image
+flortaucipir pet scan
+amyloid pet
+fdg-pet
+vmri scan
+ct/mri brain scan
+magnetic resonance imaging
+fluorodeoxyglucose positron emission tomography (fdg-pet) brain scan
+ad biomarker (csf or neuroimaging)
+lumbar punctures
+mris
+brain mri scan
+brain imaging (ct or mri)
+mri
+pet imaging
+amyloid pet imaging
+magnetic resonance imaging [mri]
+lumbar puncture
+positron emission tomography [pet]
+mri scan
+pib-pet scan
+18f flortaucipir positron emission tomography (pet) scan
+magnetic resonance imaging (mri) or computer tomography (ct) scan

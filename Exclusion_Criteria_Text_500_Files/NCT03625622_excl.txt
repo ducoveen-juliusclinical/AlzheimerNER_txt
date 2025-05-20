@@ -1,0 +1,32 @@
+Exclusion Criteria~1. Subjects who are female who are pregnant, nursing, or of childbearing potential and not
+practicing effective contraception.~2. Subjects who have signs of delirium.~3. Subjects who have had a cortical
+stroke within the preceding 2 years.~4. Subjects who have any diagnosis of dementia other than that related to
+Alzheimer's Disease, including concomitant vascular dementia.~5. Subjects who have a PET scan performed after
+onset of symptoms with negative amyloid results.~6. Subjects with a history of myocardial infarction, unstable
+angina, New York Heart Association (NYHA) class III or IV heart failure or stroke within the last 12 months.~7.
+Subjects with uncontrolled hypertension (systolic blood pressure >160mm Hg or diastolic blood pressure > 95mm
+Hg) or hypotension (systolic blood pressure <90mm Hg or diastolic blood pressure <50mm Hg).~8. Subjects who
+have clinically significant renal impairment (creatinine > 1.5x ULN) or hepatic impairment (AST or ALT > 2.5x
+ULN or total bilirubin > 1.5x ULN).~9. Subjects who have history of cancer or malignant tumor within 5 years
+prior to screening with the exception of:~ 1. Basal or squamous cell carcinoma of the skin or cervical
+dysplasia which has been adequately treated.~ 2. In situ Grade 1 cervical cancer, fully treated at least 2
+years prior to screening and without recurrence.~ 3. Prostate cancer, confined to the prostate gland, which has
+been adequately treated (surgery and/or radiation) with normal or low and stable PSA levels for 2 years prior
+to screening.~10. Subjects who have history of untreated thyroid disorder or a seizure disorder.~11. Subjects
+who are being treated, or likely to require treatment during the study, with any medications prohibited by the
+study protocol.~12. Subjects who have participated in any investigational drug or device trial within the
+previous 30 days or five half-lives of the investigational drug at screening, whichever one is longer.~13.
+Subjects who have any other clinically significant abnormal result in laboratory tests such as abnormally low
+B12 or high TSH levels, as determined by the Investigator.~14. Subjects with any current psychiatric diagnosis
+other than AD if, in the judgment of the investigator, the psychiatric disorder or symptom is likely to
+confound interpretation of drug effect, affect cognitive assessments, or affect the subject's ability to
+complete the study.~15. Subjects whose treatment with FDA-approved AD medication (donepezil, galantamine,
+memantine, rivastigmine or their combinations) has not been stable for at least 3 months prior to screening.
+Treatment and dosing should remain stable, with no changes throughout the trial.~16. Subjects who are currently
+receiving (or unable to stop use for at least 21 days \[3 weeks\] prior to receiving the first dose of the
+AR1001 and throughout the study) prescription or non-prescription medications or other products known to be
+moderate or potent inhibitors/inducers of CYP3A4.~17. Subjects who have had any intake of grapefruit,
+grapefruit juice, Seville oranges, Seville orange marmalade, or other products containing grapefruit or Seville
+oranges within 7 days of the first administration of the AR1001 and throughout the study.~18. Subjects, in the
+opinion of the Investigator, who are unsuitable to participate in the study.~Extension Phase Continuation
+Criterion~1. Subjects enrolled in AR1001-ADP2-US01 and completed 26 weeks of assigned dosing.

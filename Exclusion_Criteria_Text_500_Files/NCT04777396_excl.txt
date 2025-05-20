@@ -1,0 +1,19 @@
+Exclusion Criteria:~* Brain MRI (or CT) scan suggestive of clinically significant structural CNS disease
+confirmed by central read (e.g. cerebral large-vessel disease \[large vessel (cortical) infarcts greater than
+10 mm in diameter\], prior macro-haemorrhage \[greater than 1 cm\^3\], cerebral vascular malformations,
+cortical hemosiderosis, intracranial aneurism(s), intracranial tumours, changes suggestive of normal pressure
+hydrocephalus).~* Brain MRI (magnetic resonance imaging) (or CT) scan suggestive of significant small vessel
+pathology confirmed by central read and defined as greater than1 lacunar infarct and/or ARWMC (age-related
+white matter changes) greater than 2, (WM (white matter) greater than 20 mm) in the deep white matter and
+periventricular regions.~* Brain MRI (or CT) scan suggestive of strategic infarcts defined as bilateral
+thalamic lacunar infarcts and singular paramedian thalamic infarcts confirmed by central read.~* Evidence of a
+relevant neurological disorder other than MCI or mild dementia of the Alzheimer's type at screening, including
+but not limited to Parkinson's disease, Lewy body disease, frontotemporal dementia of any type, Huntington's
+disease, amyotrophic lateral sclerosis, multiple sclerosis, systemic lupus erythematosus, progressive
+supranuclear palsy, neurosyphilis, HIV (human immunodeficiency virus), learning disability, intellectual
+disability, hypoxic cerebral damage, or significant head trauma with loss of consciousness that led to
+persistent cognitive deficits~* Evidence of a clinically relevant or unstable psychiatric disorder, based on
+Diagnostic and Statistical Manual of Mental Disorders (DSM-5) criteria, including schizophrenia or other
+psychotic disorder, or bipolar disorder. A subject with a history of major depression who has not had an
+episode in the last 24 months before the day of screening and is considered in remission or whose depression is
+controlled with treatment can be included in the trial per investigator's judgement.

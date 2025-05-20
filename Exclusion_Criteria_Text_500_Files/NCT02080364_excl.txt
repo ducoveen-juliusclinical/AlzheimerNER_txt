@@ -1,0 +1,13 @@
+Exclusion Criteria:~* Significant neurological or psychiatric disease other than Alzheimer's disease~*
+Participants with evidence or history of severe drug allergies (resulting in dyspnea or severe rash).~* Any
+contraindications to MRI (e.g., clinically significant claustrophobia, non-removable ferromagnetic implants).
+Patients with contraindications to MRI may undergo computed tomography (CT) on approval by sponsor.~* Any
+contraindications to the FDG-PET study (e.g. allergy to any component of the FDG dose) in the cohort undergoing
+a PET scan.~* Previous exposure to investigational or non-investigational therapies for Alzheimer's disease
+within 6 months of screening~* History of cancer within the last 5 years except adequately treated cervical
+carcinoma in-situ, cutaneous basal cell or squamous cell cancer, or non-progressive prostate cancer not
+requiring treatment~* Women of childbearing potential~* Uncontrolled blood pressure and/or blood pressure above
+160/100~* Prescription medical food intended for dietary management of the metabolic processes associated with
+Alzheimer's disease.~* Diagnosis or history of cerebrovascular stroke, severe carotid stenosis, cerebral
+hemorrhage, intracranial tumor, subarachnoid hemorrhage.~* Patients with unstable, uncontrolled diabetes (HbA1c
+> 7.7%) and those requiring insulin.

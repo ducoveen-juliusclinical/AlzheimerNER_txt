@@ -1,0 +1,68 @@
+Exclusion Criteria:~Subjects who meet any of the following criteria will be excluded from participating in the
+study:~1. Prior immunotherapies and specifically therapies that may elicit T cell or antibody responses to AÎ²,
+whether investigational or approved by the FDA, for AD or other conditions.~2. Central nervous system-related
+exclusions:~ 1. Delirium, non-AD dementia or cognitive impairment, or other encephalopathies.~ 2. Subjects with
+major psychiatric disorder such as schizophrenia, bipolar disorder or major depressive disorder, or has current
+alcohol or substance abuse based on psychiatric consultation at Screening visit.~ 3. Neuropsychiatric Inventory
+(NPI-Q) total score ≥14 or score ≥4 in any NPI domain (clinically significant neuropsychiatric symptoms).
+Apathy score ≥4 acceptable.~ 4. At risk for suicide in the opinion of the investigator or the subject answers
+yes to Suicidal Ideation Item 4 or 5 on the Columbia-Suicide Severity Rating Scale (C-SSRS) (at the time of
+evaluation) at the screening visit or attempted suicide within the last 2 years.~ 5. Modified Hachinski Scale10
+score >4 or evidence of stroke within the past 5 years.~ 6. Neuroimaging exclusions by history or entry
+criteria: Arteriovenous malformation, brain mass, suggestive changes of cerebral amyloid angiopathy (CAA),
+aneurysms, or other changes that increase risk of hemorrhage, multiple cerebral macrohemorrhages, or other
+cerebrovascular complications as deemed by the Principal Investigator and/or the Safety Adjudication Committee
+that might account for cognitive symptoms.~ 7. MRI-related exclusion criteria: >4 lacunar infract, Grade III
+white matter hyperintensities (Fazekas scale), intracranial mass, evidence of normal pressure hydrocephalus or
+other anatomical findings that might affect safety or causes of cognitive impairments, and any
+contraindications for MRI scanning, including implanted metallic devices (eg, non MRI safe cardiac pacemaker or
+neurostimulator; some artificial joints; metal pins; surgical clips; or other implanted metal parts), or
+claustrophobia or discomfort in confined spaces.~ 8. History of moderate or more severe traumatic brain injury
+in the 2 years prior to signing the consent to participate in the study.~ 9. History of brain tumor, subdural
+hematoma, or other clinically significant (in the judgment of the investigator) space-occupying lesion on MRI.~
+10. History of seizure disorder.~ 11. Contraindications for PET scanning or any protocol testing procedure.~3.
+Systemic related exclusions:~ 1. Known autoimmune disease (properly treated hypothyroidism and stable
+rheumatoid arthritis allowed), biomarkers exceeding 1:80 for antinuclear antibodies, 20 IU/mL (or 1:80) for
+rheumatic factor, 26 AU/mL for antineutrophil cytoplasmic antibodies; or history of allergic reaction to any
+related product of infused cells.~ 2. Current malignancy, with the exception of non-invasive (stage 0 or stage
+1) basal and squamous cell carcinoma with planned excision. Subjects with a prior successfully treated
+malignancy and a sufficient follow-up to exclude the likelihood of recurrence may be enrolled at the discretion
+of the Principal Investigator.~ 3. History of or current HIV, HBV, or HCV (unless subjects who test positive
+for hepatitis C antibody are in remission with sustained virologic response, as evidenced by undetectable HCV
+RNA level using a sensitive assay ≥12 weeks after completion of HCV therapy).~ 4. Elevated C-reactive protein
+(>5.0 mg/L) using a high sensitivity test.~ 5. Fever, signs or symptoms of active illness or infection, or a
+diagnosed infectious disease.~ 6. Immunizations within 4 weeks of the leukapheresis or investigational
+treatment (ALZN002 or placebo) administrations.~ 7. Recent (past 8 weeks) donation of blood or loss of blood
+(>400 cc).~ 8. Insulin-dependent diabetes mellitus~4. The following medications are excluded with the noted
+exceptions:~ 1. Initiation of cholinesterase inhibitors, memantine HCl, or other drugs for the treatment of
+cognitive loss within 60 days of Screening, unless the dose is stable for >60 days prior to Screening and is
+expected to remain stable throughout the study participation~ 2. Administration of diphenhydramine and/or
+acetaminophen are prohibited pre- and/or post-infusion except if, in the opinion of the Investigator on a
+case-by-case basis in response to individual subject infusion reaction adverse event(s), these drugs are judged
+to be appropriate for immediate treatment of adverse experiences and/or prophylactically prior to subsequent
+doses. Also, if adjudicated by the Sponsor's Expert Panel and Safety Adjudication Committee as appropriate,
+conditions of routine use of these drugs can be deployed during the study~ 3. Treatment with
+coumarins/indandiones, factor Xa inhibitors, heparins, direct thrombin inhibitors, and aspirin, except low-dose
+(81 mg) aspirin for cardio-protection~ 4. Benzodiazepines are permitted as a sleep aid only if taken at a
+stable dose for at least 60 days prior to Screening and the subject intends to continue to maintain the same
+regimen~5. Initiation of medications that could cause or worsen cognitive impairment (ie, anticholinergic
+medications, tricyclic antidepressants, antipsychotic medications, and anticonvulsant medications).~6.
+Initiation of systemic corticosteroid exposure or any other immunotherapies, regardless of indication, within 3
+weeks prior to or after investigational treatment (ALZN002 or placebo) administrations, and immunizations
+within 4 weeks of the leukapheresis procedure or investigational treatment administrations.~7. Clinical
+laboratory exclusions:~ 1. Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) >2 x upper limit
+of normal (ULN)~ 2. Total bilirubin >1.5 x ULN unless Gilbert's syndrome~ 3. Estimated glomerular filtration
+rate (eGFR) <45 mL/min/1.73 m2 (CKD-EPI 2022 formula)~ 4. HbA1c >6.5%~ 5. Hemoglobin <11.0 for males and <9.5
+for females, use of red blood cell related medications/treatments (erythropoietin) within 2 years, history of
+or current bone marrow disease or myelodysplastic syndromes.~ 6. Thyroid stimulating hormone >1.5 x ULN or <0.8
+x lower limit of normal (LLN)~8. Electrocardiogram findings of ischemia or infarct, complete bundle branch
+blocks, symptomatic arrhythmias or predominantly non-sinus-conducted rhythm, QTcF >460 msec males or >480 msec
+females~9. Positive urine drug screen for controlled substances, including tetrahydrocannabinol or controlled
+substance(s) for which the subject does not have a valid prescription. Subjects taking non tetrahydrocannabinol
+(THC) containing cannabidiol products will not be excluded unless the urine drug screen is positive for
+THC.~10. Subjects with a history (within 2 years of screening) of alcohol abuse that, in the opinion of the
+Principal Investigator, may impact compliance. Inability to abstain from alcohol consumption during their stay
+in the hospital/clinic. A positive blood alcohol test at screening is also exclusionary.~11. Any other medical,
+psychiatric, or social condition that, in the opinion of the investigator, is likely to unfavorably alter the
+risk-benefit of subject participation, to interfere with protocol compliance, or to confound safety or efficacy
+assessments.

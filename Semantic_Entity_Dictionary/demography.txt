@@ -1,0 +1,47 @@
+entity
+male or female
+age
+living in the community
+participant living in an assisted living facility may be included if study medication intake is supervised
+male, or if female
+aged
+subjects living alone or in a nursing home are not eligible
+home or in community dwelling
+community living
+old
+female or male
+men or women
+either sex
+at home
+males and and females
+male and female
+at least six years of education or work history
+males and females
+acceptable history of academic achievement and/or employment
+education
+has a good work history
+ages
+living at home, senior residential setting, or an institutional setting without the need for continuous (ie, 24-hour) nursing care
+living independently or in nonmedical residential care
+all genders
+all minorities
+african american
+formal elementary education
+formal education
+men and women
+living at home or in a community setting (assisted living) without continuous nursing care
+man or women
+living at home, senior residential setting, or an institutional setting without the need for continuous (i.e. 24-h) nursing care
+female of non-childbearing potential
+male
+regardless of gender
+outpatients
+residents of an assisted-living facility
+both genders
+all ethnic groups
+both gender
+males or females
+male and/or female
+any sex
+any race/ethnicity
+eighth-grade education

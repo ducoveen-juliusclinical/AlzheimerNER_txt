@@ -1,0 +1,14 @@
+Exclusion Criteria:~1. History of any major disease that may interfere with safe engagement in the intervention
+(especially severe liver or kidney disease, or uncontrolled diabetes).~2. Central nervous system infarct,
+infection, or focal lesions of clinical significance on MRI scans.~3. Fulfills any contraindication for the use
+of sirolimus as per the summary of product characteristics, including but not restricted to:~ * Current or
+planned medication with a strong inhibitor of CYP3A4 or P-gp~ * Current or planned medication with a strong
+inducer of CYP3A4 or P-gp~ * Other current medications with known serious interaction risks with sirolimus~ *
+Known allergy or hypersensitivity to sirolimus~4. Significant obesity~5. Untreated and clinically significant
+hyperlipidemia~6. Treatment with immunosuppressive medications within the last 90 days (topical and nasal
+corticosteroids and inhaled corticosteroids for asthma are permitted), or chemotherapeutic agents for
+malignancy within the last 3 years~7. Major surgery within 3 months prior to the planned start of sirolimus
+treatment, OR has major surgery planned during the period of the trial.~8. Use of experimental medications for
+Alzheimer's or any other investigational medication or device within 60 days. Participants who have been
+involved in a monoclonal antibody study are excluded unless it is known that they were receiving placebo in
+that trial

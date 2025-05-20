@@ -1,0 +1,34 @@
+Exclusion Criteria:~* Unstable medical illnesses including hepatic insufficiency (elevated ALT, AST, or GGT; or
+low albumin attributable to liver disease), renal insufficiency (CK-EPI stage 4 or higher, or estimated GFR
+<30)~* Unstable ischemic cardiovascular disease, respiratory failure, moderate or severe congestive heart
+failure - New York Heart Association class III or IV, cancer, unstable hematologic disease or a life expectancy
+of <3 years~* Use of experimental AD treatments~* Unable to undergo MRI scanning (e.g. pacemaker, metallic
+implants, severe claustrophobia)~* History of chronic psychiatric illness (e.g. schizophrenia), any episode of
+major depression within last 2 years, or current Geriatric Depression Scale (GDS) > 6, any recent suicide
+attempts or suicidal ideation. Subjects with a diagnosis of bipolar disorder may be included if they have been
+clinically stable for a minimum of 3 years prior to the Screening visit. Clinical stability to be determined by
+the Principal Investigator.~* History of a serious infectious disease affecting the brain (including
+neurosyphilis, meningitis, or encephalitis), head trauma resulting in any persistent cognitive deficit~*
+History of alcohol or drug abuse/dependence within the past 5 years~* Known allergy to chemically related
+compounds (e.g. clotrimazole)~* Lack of good venous access, such that multiple blood draws would be precluded~*
+Regular use of any of these CNS active medications: benzodiazepines, antipsychotics, narcotics, or
+anti-epileptic drugs. Exceptions may be allowed by the Principal Investigator for regular use of low doses of
+CNS active medications. Subjects using any of these treatments will be instructed to hold their dose on the
+evening prior and the day of the efficacy visits (Baseline, Week 26 and Week 52). Stable doses (> 6 weeks) of
+cholinesterase inhibitors or memantine will be allowed, as will stable doses of anti-depressants.~* Female
+subjects who are pregnant or breastfeeding or who plan to become pregnant during participation in this trial~*
+Inability to swallow oral tablets~Exclusions for Cerebrospinal Fluid (CSF) Sub-study:~* Presence of an
+implanted shunt for the drainage of CSF or an implanted CNS catheter~* History of bleeding diathesis or
+coagulopathy,~* On anticoagulant therapy (within 14 days of lumbar puncture (LP), including but not limited to
+warfarin, heparin, dabigatran, rivaroxaban, and apixaban,~* Requires daily antiplatelet therapy, including but
+not limited to aspirin (unless < 81mg/day), clopidogrel, dipyridamole, and ticlopiidinegrel. However, the
+investigators will not exclude those who can safely hold antiplatelet therapy for 7 days prior to LP. Safety
+will be determined by the participant's Primary Care Provider and study PI.~* For those who take antiplatelet
+therapy intermittently (e.g. aspirin as needed for pain), the investigators will exclude any doses within 48
+hours of the LP or more than two dosses within 7 days of LP.~* platelet count less than the lower limit of
+normal (platelet counts between 100,000 and 150,000 mm3 are permissible as long as the investigator confirms
+there is no evidence of current bleeding diathesis or coagulopathy)~* The investigators will require INR/PT and
+aPTT labs to be done within 14 days of LP and will exclude those with INR > 1.30 or abnormally elevated
+aPTT.~Exclusions for PET Sub-Study:~* Does not have good venous access, such that multiple blood draws would be
+precluded~* Prior radiation exposure of > 2 rem total within last 12 months.~* Probable AD dementia patients
+with a global cortical SUVr < 1.08.

@@ -1,0 +1,16 @@
+Exclusion Criteria:~* Brain magnetic resonance imaging (MRI) scan suggestive of clinically significant
+structural central nervous system (CNS) disease confirmed by local read (example cerebral large-vessel disease
+\[large vessel (cortical) infarcts greater than 10 millimeter (mm) in diameter\], prior macro-haemorrhage
+\[greater than 1centimeter cube (cm\^3)\], cerebral vascular malformations, cortical hemosiderosis,
+intracranial aneurism(s), intracranial tumours, changes suggestive of normal pressure hydrocephalus)~* Brain
+MRI scan suggestive of significant small vessel pathology confirmed by local read and defined as greater than 1
+lacunar infarct and/or white matter hyperintensity (WMH) Fazekas13 scale greater than 2, (white matter \[WM\]
+greater than 20 mm) in the deep white matter and periventricular regions~* History or evidence of autoimmune
+diseases such as inflammatory bowel disease, rheumatoid arthritis, lupus, glomerulonephritis, psoriasis (but
+not limited to): Any other medical condition that would require use of systemic corticosteroids or
+immunosuppressants or immunostimulants in the 12 months prior to screening (visit 1)~* Received a vaccine
+product (including booster) 4 weeks prior to screening (visit 1) or expected to receive a vaccine product
+(including booster) before visit 5~* Use of any systemic immunomodulating drugs (small molecules and/or
+biologics) in the last 12 months prior to screening (visit 1) or anticipated use of such drugs during study
+intervention period 1 (i.e., during the first 12 weeks of treatment until visit 5), such as corticosteroids for
+systemic use, immunostimulants and immunosuppressants

@@ -1,0 +1,223 @@
+entity
+Dec-26
+13 - 25
+10 and 26
+50 years and older
+Dec-24
+delayed recall score <= 10
+delayed recall score less than or equal to 10
+50-95 years
+Jul-28
+16-26
+>/= 50 to </= 85
+ranging from 11 to 24, inclusive
+one or more
+10 to 26 inclusive
+≤ 4
+≥50 and ≤90 years
+no evidence of any other potential cause of dementia other than alzheimer's disease
+<450msec
+<480msec
+over 55 years
+at least 60 years
+10 mg
+10 to 23
+55 or greater
+45 to 90 years
+50 to 85 years
+16 to 26
+inferior or equal to 1
+50 to 90
+12 to 22
+>50 and <90 years
+10mg qd
+16 to 24
+14-26 inclusive
+50 or greater
+14-26
+60-100
+20-26
+at least one
+55 years or older
+15-26
+< 5
+50 and 75 years
+20 to 26
+< 4
+18 to 24
+at least 55 years
+at least 3 months before
+50 ~ 80 years
+10 to 26
+1~2
+3~5
+didn't take
+1 or 2
+higher than 24
+55-90
+Dec-21
+≥ 60 years
+between 10 and 20 inclusively
+18-26
+> 65 and <85 years
+1 to 2
+</= 4.
+less than or equal to 12 and greater than or equal to1
+no evidence of focal disease to account for dementia
+greater than or equal to 50 years
+50 and 85
+middle school or above: 11 ≤mmse ≤ 25, elementary school: 8 ≤ mmse ≤ 20, illiteracy: 5 ≤ mmse ≤ 16
+≤10
+10 or more
+greater than or equal to 20
+0.5-1
+less than or equal to 4
+more than 2 days per week (minimum of 10 hours per week
+at least two months
+10 mg total daily
+9.5 or 13.3 mg/24 hours administered by transdermal patch or 6-12 mg total daily dose administered orally
+16-24 mg total daily dose
+50 to 90 years
+≥10 and ≤26
+≥ 0.5
+living with patients or spending 10 or more hours a week with patients
+(5mg to 10mg
+psen1 e280a mutation carrier or non-carrier status
+greater than or equal to (>=) 24 for participants with less than (<) 9 years of education or mmse >=26 for participants with 9 or more years of education
+normal or expected ranges for the testing laboratory or if tsh and b12 values are out of range they are judged by the investigator not to be clinically significant
+over age 50 years
+> 12
+systolic bp > 100 mmhg but ≤ 159 mmhg
+diastolic bp > 65 mmhg but ≤ 99 mmhg
+systolic bp > 105 mmhg but ≤ 140 mmhg
+diastolic bp > 70 mmhg but ≤ 90 mmhg
+no evidence of hepatic insufficiency
+>55 years
+≤15
+5 or 10 mg
+8, 16 or 24 mg
+3, 4.5 or 6 mg
+elevated aβ
+55-85
+18 and 26
+less than 6 [note: a score ≥6 on this screening scale may be permissible, if the subject is examined by a site clinician and judged not to be depressed.
+average of 10 hours per week
+completed six grades
+20-30
+≥55 and ≤85 years
+≥12 and ≤26
+≤4
+any dose form other than 23 mg once daily
+at least 65 years
+amyloid positive
+45-89 years
+20 to 28
+55-85 years
+Apr-15
+≥ 110 mmhg and ≤ 170 mmhg
+0.5
+24 and 30
+positive
+≥45kg
+18-34 kg/m2
+≥ 20 and ≤ 26
+medial temporal lobe atrophy: scheltens score of ≥ 2 (on a scale of 0-4 on the more atrophied side)
+amyloid+, tau+
+at least 6 years
+50-85 years
+<11 for 16 or more years of education; <9 for 8-15 years of education; <6 for <7 years of education
+< 26
+amyloid positivity
+50-80 years
+< 6
+eight or more years
+≥ 65 years
+0.5 for mci due to ad
+0.5 or 1 for mild ad
+22 to 30
+≥0.5
+0.5 to 1
+amyloid postivie
+bapl score 2 or 3
+55-89
+Aug-26
+<7
+at lease 50 years old and no more than 85 years
+12 to 26
+1 (mild) or 2 moderate)
+65 years or above
+Oct-20
+19 - 35 kg/ m2
+4,500-10,500 cells/mcl
+1,800-8,700 cells/mcl
+140-450 k/ul
+12.0-17.5 grams/dl
+10-40 iu/l
+0.1-1.4 mg/dl
+<240 mg/dl
+<300 mg/dl
+< 7%
+>= 50 and <= 85 years
+>= 16 and <= 26
+lower than 23 mg once daily
+ratio of total tau/aβ42 in cerebrospinal fluid >= 0.28
+86 to 90 years
+14 to 26
+negative genotype
+do not have active suicidal thoughts (answers 'yes' to questions 4 or 5
+50 to 80 years
+24 to 30
+consistent with the presence of aß and p-tau181 abnormality (≤1000 pg/ml for aß, ≥19 pg/ml for p-tau181)
+over 65 years
+14 and 26
+no suicidal ideation of type 4 or 5
+55 to 85 years
+14-24
+11 and 24
+≥16
+>/=22
+0.5 or 1.0, as well as a clinical dementia rating (cdr) memory domain score >/=0.5
+55 to 89 years
+18-30
+0.5 - 1
+≤16% based on age-adjusted norms
+< 6.5%
+18 to 28
+0.5, 1, or 2
+>50 centiloid units
+45-90kg
+≥ 65 and ≤ 85 years
+15 through 26
+≥1.5 (adjusted by age: 65-74 years ≥ 1.5 points, 75-84 years old ≥ 2.0 points)
+60 and 80 years
+Oct-22
+positive biomarker for brain amyloid pathology
+Oct-26
+1 or 0.5
+0.5 to 1.0 (inclusive), with a memory box score ≥0.5
+≥ 50 and ≤ 85 years
+greater than or equal to one standard deviation below age and educational norms
+≥ 18 and ≤ 26
+greater or equal to 50 kg
+18 and 35 kg/m2
+0.5 with a memory box score of >=0.5
+>5
+> 1.5 standard deviation (sd) below age-and education-matched control subjects
+≥ 55 to ≤ 85 years
+≤ 19
+grade 5 to 6
+> 18
+0.5 or 1
+> 50 years
+≥ 50 kilograms (kg)
+18 and 35 kilograms per square meter (kg/m^2)
+24 or less
+55 to 80 years
+less than or equal to 85 based on the delayed memory index (dmi) score
+55 - 85 years
+60-80 years
+≥ 27
+0.5 or 1.0, with a cdr memory score of 0.5 or higher, and at least 1 cdr functional domain (community affairs, home and hobbies, or personal care) score of 0.5 or higher
+55 and 85 years
+0.5 with a memory box score of ≥ 0.5
+not include one or more e4 alleles

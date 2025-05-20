@@ -1,0 +1,4 @@
+Exclusion Criteria:~1. Significant psychiatric on medical disease.~2. Any chronic liver disease as indicated by
+out of range values of ALAT, ASAT or direct bilirubin, clinically relevant hepatic steatosis or other clinical
+manifestations of liver disease~3. Chronic daily drug intake of excluded concomitant medications.~4. Enrollment
+in another investigational drug study within 3 months before the baseline visit.

@@ -1,0 +1,5 @@
+Exclusion Criteria:~- Contraindication to PET scan procedures, possibly including, but not limited to current,
+past, or planned participation in studies involving radioactive agents, including the main Study NCT01998841
+(GN28352) and this Tau PET substudy, such that the total research-related radiation dose to the participant in
+any given year would exceed the limits set forth in the U.S. Code of Federal Regulations (CFR) Title 21 Section
+361.

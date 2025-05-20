@@ -1,0 +1,13 @@
+Exclusion Criteria:~1. A neurologic condition other than AD that significantly contributes to the subject's
+dementia.~2. Any current primary psychiatric diagnosis other than AD if it is likely to confound cognitive
+assessment or ability to comply with study procedures.~3. Geriatric Depression Scale (15-item) score > 8 (Note
+- a subject with a score > 8 may continue in screening if, in the judgment of the Investigator, the elevated
+score is not attributed to a major depressive episode).~4. Suicidal ideation during the past 3 months or
+suicidal behavior during the past 12 months.~5. Alcohol or substance use disorder within 2 years of
+screening.~6. MRI presence of cerebral vascular or other significant pathology.~7. History of transient
+ischemic attack or stroke within 12 months of screening.~8. Seizure within 12 months of screening.~9. Severe
+head trauma or head trauma considered likely to be contributing to the subject's cognitive impairment.~10.
+Sleep apnea that is considered likely to be contributing to the subject's cognitive impairment.~11.
+Insufficiently controlled diabetes mellitus or hypertension.~12. Body mass index < 18.5 or > 37.5.~13. History
+or diagnosis of clinically significant cardiac disease.~14. Currently or previously prescribed/administered
+aducanumab, lecanemab, or any anti-amyloid monoclonal antibody, more than 2 doses.

@@ -1,0 +1,7 @@
+Exclusion Criteria:~* Patients with a disease that could significantly diminish cognitive function (e.g.,
+Parkinsonism, Huntington's disease, Creutzfeldt-Jacob disease, dementia of Levy body type, vitamin B12 or folic
+acid deficiency)~* persistent dementia or amnestic disorders according to DSM-IV criteria~* occurrence of
+hallucination or delusion only while delirium is observed~* psychiatric symptoms induced by psychosis (e.g.,
+schizophrenia, schizoaffective disorders, delusional disorders, depression or bipolar disorders)~* history of
+neuroleptic malignant syndrome (a rare psychotropic-drug reaction, which may be characterized by confusion,
+reduced consciousness, high fever or pronounced muscle stiffness)

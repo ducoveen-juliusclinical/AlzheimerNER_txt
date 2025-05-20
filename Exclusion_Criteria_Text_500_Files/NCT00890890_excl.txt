@@ -1,0 +1,7 @@
+Exclusion Criteria:~* Premenopausal women~* DSM-IV diagnosis of Dementia History of stroke~*
+Immunocompromised~* Active peptic ulcer, GI bleed, chronic inflammatory bowel disease, chronic diarrhea or past
+GI surgery that would impact drug absorption~* Unstable Vitamin B-12 deficiency~* Hematologic or solid
+malignancy within 5 years~* Geriatric Depression Scale ≥ 6~* Unstable medical condition~* Alcohol or drug abuse
+history with 12-months of study entry~* Significant drug allergy~* Prisoners, compulsory psychiatric patients,
+or residents of nursing home or skilled nursing facility at entry~* Any other experimental therapy with 30-days
+of study entry

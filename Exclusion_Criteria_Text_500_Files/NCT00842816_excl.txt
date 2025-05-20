@@ -1,0 +1,3 @@
+Exclusion Criteria:~* Subjects who reside in a skilled nursing facility.~* Subjects with B12 or folate
+deficiency.~* Subjects with chronic hepatic disease.~* Subjects with a recent history of hematologic/oncologic
+disorders.~* Subjects who have experienced a myocardial infarction with the past year.

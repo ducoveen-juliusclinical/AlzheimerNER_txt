@@ -1,0 +1,28 @@
+Exclusion Criteria:~1. Unwilling or unable to give informed consent~2. Pregnancy~3. QTc > 450 msec on baseline
+ECG~4. MRI contraindications~5. Presence of uncontrolled psychiatric disorder (as per clinical judgment)~6.
+Presence of uncontrolled systemic lupus erythematosus (as per clinical judgment)~7. Substance or alcohol abuse
+(current alcohol use > 3 alcoholic beverage/day or > 21 per week and as per clinical judgment)~8. Hearing,
+vision, or motor deficits despite corrective devices (as per clinical judgment)~9. Myocardial infarction,
+angina, stroke, or transient ischemic attack in the past 6 months~10. Chronic heart failure (as per clinical
+judgment)~11. Neurologic, musculoskeletal, or other condition that limits subject's ability to complete study
+physical assessments (as per clinical judgment)~12. Positive SARS-CoV-2 test within 30 days prior to
+enrollment~13. AST/ALT > 2.5x upper limit normal~14. Presence of significant liver disease with total bilirubin
+> 2X upper limit or as per clinical judgment~15. Inability to tolerate oral medication (as per clinical
+judgment)~16. Abnormality in any of the screening laboratory studies (see section 6.21.2) or as per clinical
+judgment~17. Malabsorption (as per clinical judgment)~18. Known human immunodeficiency virus infection (as per
+clinical judgment)~19. Known active hepatitis B or C infection~20. Invasive fungal or viral infection (as per
+clinical judgment)~21. Known hypersensitivity or allergy to D or Q~22. Uncontrolled pleural/pericardial
+effusions or ascites (as per clinical judgment)~23. New/active invasive cancer except non-melanoma skin
+cancers~24. Inability to tolerate oral medications (as per clinical judgment)~25. Currently taking AND unable
+to safely hold any of the medications listed in Appendix 1 during the days IP is administered and for 36 hours
+after IP administration.~26. Uncontrolled diabetes (defined as HbA1c > 7% or as per clinical judgment).~27.
+Gastric bypass/reduction~28. Crohn's disease~29. Myopathies (increased or low calcium, vitamin D deficiency,
+elevated creatine kinase or ESR) (as per clinical judgment)~30. eGFR < 10 ml/ min/ 1.73 m2~31. Creatinine
+clearance < 60 mL/min/1.73 m2~32. Subjects on therapeutic doses of anticoagulants (e.g., warfarin, heparin, low
+molecular weight heparin, factor Xa inhibitors, etc.)~33. On antiplatelet agents (e.g., full dose Aspirin,
+Clopidogrel etc.). Baby aspirin (81 mg), if absolutely necessary from cardiac perspective, will be allowed~34.
+Presence of any condition that the Investigator believes would put the subject at risk or would preclude the
+patient from successfully completing all aspects of the trial~Involvement of special vulnerable populations: We
+will not involve special vulnerable populations, such as fetuses, neonates, pregnant women, children,
+prisoners, institutionalized individuals, or others who may be considered vulnerable populations except for
+patients with dementia. Therefore, availability and consent from a LAR is an inclusion criterion.

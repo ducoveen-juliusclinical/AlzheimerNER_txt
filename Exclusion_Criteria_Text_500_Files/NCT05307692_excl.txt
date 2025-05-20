@@ -1,0 +1,8 @@
+Exclusion Criteria:~* Participant fulfils diagnostic criteria for non-Alzheimer's Dementia: example,
+Frontotemporal Dementia (FTD), Diffuse Lewy Body Dementia (DLBD), and post-stroke dementia, based on clinical
+history. (Participants may be included with mixed AD/vascular dementia)~* Participant has a clinically
+significant acute illness within 7 days prior to study intervention administration~* Participants with a
+history of delirium within 30 days prior to or during screening~* Participant with a cause of agitation that is
+not secondary to dementia (such as pain) or significant history of aggression prior to dementia based on
+investigator judgment~* Participants who are not stable on concomitant medications or take prohibited
+medications

@@ -1,0 +1,39 @@
+Exclusion Criteria:~* Use of metformin or any class of medication approved for treatment of diabetes, even if
+it is used for an indication other than diabetes (e.g., obesity), within one year of screening. These
+medications include GLP-1 agonists used for weight loss.~* Body mass index ≤ 20 k/m2.~* Metformin is
+contraindicated in persons with an estimated glomerular filtration rate (eGFR) of less than 30 mL/min. For
+persons with an eGFR of 30 to 45 mL/min, a reduction of the dose or discontinuation of the medication is
+recommended for those on metformin; in this range, it is also recommended that persons do not initiate
+metformin. Thus, participants with eGFR ≤ 45 mL/min will not be eligible to participate.~* The risk of lactic
+acidosis is increased in persons with liver disease and class III or IV congestive heart failure. Thus, persons
+with liver disease other than non-alcoholic fatty liver disease or class III or IV congestive heart failure
+will not be eligible to participate due to the risks of side effects.~* A history of intolerance to
+metformin.~* History of cerebrovascular accident with residual neurological deficits.~* Moderate to severe
+depression, indicated by a score in the Geriatric Depression Scale of 9/15 or higher.~* Dementia diagnosis~*
+Lack of capacity to consent~* Participants with neurologic diseases associated with neurologic deficits on
+clinical examination.~* Participants with other current Axis I psychiatric diagnoses such as bipolar disorder
+or schizophrenia.~* Alcohol or substance abuse or dependence in the past 6 months.~* Use of medications rated
+as being the likely cause of cognitive impairment. These include benzodiazepines in dose equivalents greater
+than 2 mg daily of lorazepam, and regular use of prescription narcotics.~* Normal individuals without cognitive
+complaints.~* Participants with uncontrolled hypertension (systolic blood pressure ≥ 160 mmHg or diastolic
+blood pressure ≥ 95 mmHg).~* Participants with active cancer or a history of cancer within the last two years,
+with the exception of squamous or basal cell carcinoma of the skin.~* Participants who for any reason may not
+complete the study as judged by the study physician.~* Participants planning to move to another city or state
+during the duration of the study.~* Participants with a known history of diabetes. The rationale for this
+exclusion is persons with diabetes may already be on metformin or on other medications that increase insulin
+levels and could confound the trial.~* Participants with diabetes discovered on screening based on American
+Diabetes Association criteria using HbA1c (HbA1c of 6.5% or greater). Although metformin could be a first
+treatment of diabetes for these participants, addition of treatments for diabetes by physicians could confound
+the study.~* Use of any other amyloid modifying treatment for AD such as lecanemab, either experimental or
+approved by the Food and Drug Administration, is exclusionary. Previous use of amyloid targeting therapy that
+was shown to be non-efficacious (e.g., solunazemab) is not exclusionary.~* Not able to undergo phlebotomy as
+reported by the participant or determined by the study coordinator or physician.~* Participants with known,
+suspected, or plan for becoming pregnant.~* The presence of a medical condition, and/or use of a medication
+and/or any substance, individually or in aggregate, that in the judgement of the study team, is the primary
+cause of cognitive impairment. For example, if hypothyroidism, cobalamin deficiency, or tertiary syphilis are
+reported or found during screening, they could be deemed as being likely contributors to cognitive impairment,
+and thus be exclusionary. Combinations of multiple medications with anti-cholinergic effects with or without
+other central nervous system depressants could also be considered as being causative of cognitive impairment
+and exclusionary.~Exclusion Criteria for MRI~Contraindications for MRI include inability to lie flat,
+claustrophobia, or presence of indwelling metal objects or implants that are not MRI compatible.~Exclusion
+Criteria for PET~History of adverse reactions to radiocontrast agents.

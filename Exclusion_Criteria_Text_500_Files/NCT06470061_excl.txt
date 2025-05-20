@@ -1,0 +1,11 @@
+Exclusion Criteria:~* MMSE score 0-25, indicating more than subtle cognitive abnormalities~* CDR-SB score > 0,
+indicating functional impairment~* Clinical diagnosis of any non-Alzheimer's disease (AD) type of mild
+cognitive impairment (MCI) or dementia~* Taking pharmaceutical anti-AÎ² monoclonal antibodies (i.e., Leqembi,
+Aduhelm).~* Participation in another clinical study with an investigational product during the last 90 days.~*
+Presence of hepatic disease or kidney disease~* Clinically significant or unstable hematologic, cardiovascular,
+pulmonary, gastrointestinal, endocrine metabolic, or other systemic disease.~* Diagnosis of gastrointestinal or
+stomach condition including but not limited to irritable bowel syndrome (IBS), ulcerative colitis, peptic
+ulcers, Crohn's disease, gastroesophageal reflux disease, gastritis, severe dyspepsia, and intestinal
+malabsorption.~* Clinically significant abnormal values in hematology, coagulation and platelet function,
+clinical chemistry, or urinalysis at screening (such as those with prolonged prothrombin time (PT), anemia, low
+neutrophil or platelet count, elevated liver function tests, low glomerular filtration rate).

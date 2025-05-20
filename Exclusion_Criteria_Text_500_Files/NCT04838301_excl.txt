@@ -1,0 +1,8 @@
+Exclusion Criteria:~* Dementia other than probable AD~* Use of benzodiazepines, anticonvulsants,
+antipsychotics, or other drugs that might interact with the GABA-A receptor complex~* History of stroke with a
+modified Hachinski Ischemic Scale score >4~* History of seizure disorder, focal brain lesion, traumatic brain
+injury~* History within the last 5 years of a primary or recurrent malignant disease~* Unstable or clinically
+significant cardiovascular, kidney or liver disease~* MRI indicative of any other significant abnormality,
+including but not limited to one or more significant ARIA-E or macro-hemorrhage findings, or multiple
+microhemorrhages (>8), or Fazekas score of 3; encephalomalacia, aneurysms, vascular malformations, subdural
+hematoma, or space occupying lesions~* Any conditions that would contraindicate MRI studies.

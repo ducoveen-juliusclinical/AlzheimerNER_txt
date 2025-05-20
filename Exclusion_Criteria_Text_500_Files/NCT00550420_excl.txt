@@ -1,0 +1,17 @@
+Exclusion criteria:~* Subject had a serious adverse experience or clinically significant laboratory abnormality
+during AVA105640, which in the opinion of the investigator could have been attributable to study medication,
+and which is ongoing at Visit 1~* The subject is felt by the investigator to be unsuitable (on the basis of
+health, compliance, caregiver availability, or for any other reason) for inclusion in the study~* The subject
+experienced a significant cardiovascular event during AVA105640 (e.g. intervention, percutaneous coronary
+intervention, vascular surgery, acute coronary syndrome \[non Q-wave myocardial infarction, Q-wave myocardial
+infarction, unstable angina\] or significant arrhythmia), unless a thorough cardiovascular evaluation has been
+performed which confirms that the subject does not have congestive heart failure, and is clinically stable~*
+Clinical/investigational evidence of congestive heart failure defined by the New York Heart Association (NYHA)
+criteria (Class I to IV cardiac status) at the time of Visit 1~* Clinically significant peripheral oedema at
+the time of Visit 1~* Alanine aminotransferase (ALT), aspartate aminotransferase (AST), or alkaline phosphatase
+values >2.5 times the upper limit of normal (ULN), total bilirubin values >1.5 times the ULN, or history of
+severe hepatobiliary disease (e.g. hepatitis B or C, or cirrhosis, Child-Pugh Class B/C)~* Subject is an
+immediate family member or employee of the participating Investigator, of any of the participating site staff,
+or of GSK~* In France, a subject is neither affiliated with nor a beneficiary of a social security category~*
+In France, a subject has participated in any study using an investigational drug during the previous 30 days
+(except for participation in AVA105640)

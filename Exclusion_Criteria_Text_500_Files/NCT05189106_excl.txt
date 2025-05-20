@@ -1,0 +1,34 @@
+Exclusion Criteria~Study participants meeting any of the following criteria during screening evaluations will
+be excluded from entry into the study:~1. Women who are pregnant, breastfeeding, or planning to become pregnant
+during the trial~2. Any unstable clinically significant medical condition other than ALS or AD (e.g., within
+six months of baseline, including but not limited to myocardial infarction, angina pectoris, congestive heart
+failure, or neoplasm undergoing active treatment).~3. Active cancer or history of cancer, except for the
+following: basal cell carcinoma, cervical carcinoma in situ, prostatic carcinoma in situ, or other malignancies
+curatively treated and with no evidence of disease recurrence for at least 5 years. Active cancer includes
+cancers with current disease manifestations or therapy that could adversely affect participant safety and
+longevity, create the potential for drug-drug interactions, or compromise the interpretation of study
+results.~4. History of diverticulitis or bowel perforation.~5. Active ulcerative colitis, Crohn's disease, and
+history of peptic ulcer disease within the past 5 years or after the age of 65.~6. Active, serious infection,
+including localized infection in the opinion of the investigator.~7. Positive for latent or active tuberculosis
+(TB). Note: Patients with a history of latent or active TB must have had an adequate course of treatment
+documented prior to study participation.~8. Evidence of active hepatitis B or C infection.~9. History of severe
+hepatic or renal impairment.~10. eGFR < 60 mL/min/1.73 m2~11. Have any of the following specific abnormalities
+on screening laboratory tests:~ * ALT or AST >2.5x upper limits of normal (ULN)~ * Alkaline phosphatase (ALP)
+≥2x ULN~ * Total bilirubin ≥1.5x ULN, Note: patients with elevated bilirubin secondary to Gilbert's disease are
+eligible to participate in the study.~ * Hemoglobin <10 g/dL (100.0 g/L)~ * Total white blood cell count <3000
+cells/Î¼L (<3.00 x 103/Î¼L or <3.00 billion/L)~ * Neutropenia (absolute neutrophil count \[ANC\] <1500
+cells/Î¼L) (<1.50 x 103/Î¼L or <1.50 billion/L)~ * Lymphopenia (lymphocyte count <1000 cells/Î¼L) (<1.00 x
+103/Î¼L or <1.00 billion/L)~ * Thrombocytopenia (platelets <100,000 cells/Î¼L) (<100 x 103/Î¼L or <100
+billion/L)~ * Laboratory abnormalities in vitamin B12, thyroid stimulating hormone (TSH), or other common
+laboratory parameters that might contribute to cognitive dysfunction~12. Personal history of pulmonary embolus
+(provoked or unprovoked) or deep vein thrombosis, or a history of unprovoked pulmonary embolus in a
+first-degree family member.~13. Treatment with anticoagulants that, in the opinion of the investigator, would
+compromise the safety of the participant.~14. Previous therapy with baricitinib.~15. Current use of strong
+Organic Anion Transporter 3(OAT3) inhibitors (e.g., probenecid) or other prohibited medication (refer to
+Section 6.7.1) within 5.5 half-lives or 30 days of screening, whichever is longer.~ * For participants with AD:
+Current use of Aducanumab or within 30 days of screening.~16. Receiving other experimental interventions for AD
+or ALS within 5.5 half-lives or 30 days of screening, whichever is longer.~17. Use of permanent assisted
+ventilation (invasive ventilation via tracheostomy, or >22 hours of non-invasive ventilation per day, e.g., via
+BiPAP).~18. Have had any major surgery within 8 weeks prior to screening or will require major surgery during
+the study that, in the opinion of the investigator, would pose an unacceptable risk to the patient. Note:
+Placement of a gastrostomy tube and an intravenous port are not considered major surgery.

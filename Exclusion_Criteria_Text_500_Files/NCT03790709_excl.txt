@@ -1,0 +1,39 @@
+Exclusion Criteria:~* Patients who have a progressive medical or neurological condition that in the opinion of
+the investigator would interfere with the conduct of the study. Exception: If diagnosed with seizures, must be
+on stable anti-seizure medication for at least 3 months prior to screening.~* Current clinically significant
+systemic illness that is likely to result in deterioration of the patient's condition or affect the patient's
+safety during the study.~* History or clinically evident stroke or clinically significant carotid or
+vertebrobasilar stenosis or plaque.~* History of neurologic (e.g. stroke, traumatic brain injury) or
+psychiatric condition that the investigator deems may interfere with interpretability of data.~* History of
+untreated thyroid disorder, Type 1 diabetes, and insulin dependent or uncontrolled Type II diabetes, as
+determined by the investigator (e.g. non-insulin-controlled Type II diabetes, whose HbA1c value is higher than
+8.0%).~* Body Mass Index (BMI) > 30.~* History of clinical hepatic dysfunction.~* Current symptomatic and
+unstable/uncontrolled gastrointestinal, hepatic, renal, respiratory, cardiovascular, metabolic, immunological,
+hematological or hormonal disorders.~* Indication of liver disease, defined by serum levels of ALT (SGPT), AST
+(SGOT), or alkaline phosphatase above 3x upper limit of normal (ULN) as determined during screening.~*
+Significant history of drug addiction (with the exception of nicotine dependence) or abuse (including alcohol,
+as defined in DSM-V or in the opinion of the investigator) within the last two years prior to informed consent,
+or a positive urine drug screen for cocaine, opioid, phencyclidine (PCP), amphetamine or marijuana at
+screening. Prescription medication yielding a positive drug screen are acceptable except for tricyclic
+antidepressants (e.g. Amitriptyline, Amoxapine, Desipramine, (Norpramin) Doxepin, Imipramine (Tofranil),
+Nortriptyline (Pamelor), Protriptyline (Vivactil), Trimipramine (Surmontil)).~* Clinically significant
+infection within the last 30 days prior screening (e.g., chronic persistent or acute infection, urinary tract
+infections (UTI)).~* Treatment with immunosuppressive medications (e.g., systemic corticosteroids) within the
+last 90 days (topical and nasal corticosteroids and inhaled corticosteroids for asthma are permitted) or
+chemotherapeutic agents for malignancy within the last 3 years.~* Myocardial infarction within the last year.~*
+History of cancer within the last 3 years, with the exception of basal cell carcinoma and non-metastatic
+squamous cell carcinoma of the skin and prostate cancer with currently normal PSA.~* Other clinically
+significant abnormality on physical, neurological, laboratory, or electrocardiogram (ECG) examination (e.g.,
+atrial fibrillation) that could compromise the study or be detrimental to the participant.~* Hemoglobin < 11
+g/dL.~* Have any contraindication to MRI scanning, including cardiac pacemaker/defibrillator, ferromagnetic
+metal implants (e.g., in skull and cardiac devices or severe claustrophobia).~* Smoking > 1 pack of cigarettes
+per day (as assessed for the 30 days prior to screening).~* Alcohol use of more than 2 drinks per day.~*
+Current use of over-the-counter (OTC) supplements or nutraceuticals unless they are on stable dose for at least
+3 months prior to screening and are documented in the eCRF.~* Use of over the counter (OTC) or prescription
+medication for sleep on 2 or more occasions per week.~* Being treated with psychoactive medications on a stable
+dose for less than 3 month.~* Any prior exposure to ANAVEX2-73.~* Individuals enrolled in previous AD clinical
+trial involving an investigational drug treatment less than 3 months ago (longer than 3 month ago allowed).~*
+Any known hypersensitivity to any of the excipients contained in the study drug formulation.~* Any other
+criteria (such as a clinically significant screening blood test result), which in the opinion of the
+Investigator causes the participant not to qualify for the study.~* Evidence of cerebrovascular dementia with a
+Hachinski score of 4 or more.

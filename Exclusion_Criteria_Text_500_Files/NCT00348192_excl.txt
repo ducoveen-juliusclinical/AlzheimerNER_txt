@@ -1,0 +1,6 @@
+Exclusion criteria:~* Females of child-bearing potential.~* Have other causes of dementia such as vascular
+damage, depression, bipolar affective disorder, schizophrenia, syphilis, vitamin B12 deficiency or thyroid
+deficiency.~* Subjects taking medication for Alzheimers disease or centrally acting agents which might impact
+study outcomes.~* Subjects taking agents for which there is a theoretical risk of interaction with SB-742457 or
+donepezil.~* Subjects with conditions which might be exacerbated by exposure to donepezil.~* Subjects with
+known hypersensitivity to sunlight or seizures.

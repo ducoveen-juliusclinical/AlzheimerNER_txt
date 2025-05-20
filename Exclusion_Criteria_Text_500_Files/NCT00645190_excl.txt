@@ -1,0 +1,3 @@
+Exclusion Criteria:~* Patients with neurodegenerative disorders such as Parkinson's disease~* Patients with
+some conditions possibly resulting in cognitive impairment, e.g. acute cerebral trauma, infection~* Has
+evidence of multi-infarct dementia or clinically active cerebrovascular disease.

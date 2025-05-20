@@ -1,0 +1,5 @@
+Exclusion Criteria:~* Relevant neurologic disease other than Alzheimer Disease that may affect cognition or
+ability to complete the study.~* Current major depressive disorder or other current major psychiatric
+disorder.~* History of clinically evident stroke or clinically important carotid or vertebrobasilar stenosis or
+plaque.~* Use of prescription or nonprescription medications for cognitive enhancement (including memantine,
+ginkgo biloba, huperzine A, and cholinesterase inhibitors) within 3 months before the baseline visit.

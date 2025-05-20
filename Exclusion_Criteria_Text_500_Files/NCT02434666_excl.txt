@@ -1,0 +1,8 @@
+Exclusion Criteria:~1. Renal and hepatic dysfunction with:~ Total Bilirubin: >1.5 x UNL AST: >2.5 x UNL ALT:
+>2.5 x UNL Serum Creatinine: >1.5 x UNL Creatinine Clearance: <30 mL/min (calculated by Cockcroft and Gault
+equation)~2. History or presence of myasthenia.~3. ECG findings of:~ Complete Left Bundle Branch Block;
+Ventricular pacing; 2nd degree or 3rd degree AV block; Atrial fibrillation or atrial flutter; HR <45 or >100;
+PR >220 msec; or QTcF >450 msec in male, >470 msec in female~4. Patients considered unlikely to co-operate in
+the study, and/or poor compliance anticipated by the investigator.~5. Any other clinically relevant acute or
+chronic diseases which could interfere with patients' safety during the trial, or expose them to undue risk, or
+which could interfere with study objectives.

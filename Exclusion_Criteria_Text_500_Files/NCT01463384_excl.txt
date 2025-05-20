@@ -1,0 +1,6 @@
+Exclusion Criteria:~* Any person with medical devices such as cardiac pacemakers/defibrillators or
+neuro-implants as they are contra-indications for MRI/MRS exam.~* Since the effects of MRI are unknown to the
+fetus or unborn child, any person who is or may be pregnant will be excluded from the study.~* History of known
+allergy or intolerance to minocycline or any other tetracycline~* Impaired renal function (plasma Creatinine)
+or blood urea nitrogen (BUN) levels exceeds twice normal upper limit which can result in higher serum levels of
+tetracycline, azotemia, hyperphosphatemia and acidosis.

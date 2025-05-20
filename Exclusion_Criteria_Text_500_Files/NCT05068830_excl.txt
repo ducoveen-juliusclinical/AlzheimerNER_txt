@@ -1,0 +1,27 @@
+Patient exclusion criteria:~* Pregnancy or unwilling to use adequate birth control for the duration of and 6
+months beyond study participation. Defined according to Clinical Trial Facilitation Group document
+Recommendations related to contraception and pregnancy testing in clinical trials.~* Positive for Hepatitis B,
+Hepatitis C or HIV at screening.~* Not qualified to give consent at inclusion.~* Any other condition judged to
+interfere with the safety of the patient or the intent and conduct of the study.~Related to medical history:~*
+Stroke~* Anaphylaxis~* Prior adverse reaction to any human blood product~* Any history of a blood coagulation
+disorder or hypercoagulability~* Congestive heart failure, defined as any previous heart failure
+hospitalization, or current symptomatic heart failure in New York heart Association class ≥II with reduced,
+mid-range or preserved ejection fraction.~* Coagulation defect or hypercoagulopathy~* Uncontrolled
+hypertension~* Renal failure~* Prior intolerance to intravenous fluids~* Recent history of uncontrolled atrial
+fibrillation~* Bone marrow transplant~* IgA deficiency~* Severe protein S deficiency~* Thrombocytopenia
+(platelets < 40 x 10 to the power of 9/L)~* Contraindication for Octaplasma~Related to medications or other
+treatments:~* Any concurrent use of anticoagulant therapy, clopidogrel or acetylsalicylic acid/Dipyridamol in
+combination.~* Initiation or change in the dosage of a acetylcholine esterase inhibitor (AChEI) or memantine
+during the trial (week 0-52). Participants will be urged to start on AChEI when diagnosis is communicated, and
+must be on a stable dose for at least one month prior to screening.~* Concurrent participation in another
+treatment trial for AD. If there was prior participation, the last dose of the investigational agent must have
+been given at least 6 months prior to screening, except if the patient received placebo medication.~* Treatment
+with any human blood product, including intravenous immunoglobulin, during the 6 months prior to screening or
+during the trial.~* Concurrent daily treatment with benzodiazepines, typical or atypical antipsychotics,
+long-acting opioids, or other medications that is judged to interfere with cognition. Intermittent treatment
+with short-acting benzodiazepines or atypical antipsychotics may be permitted, provided that no dose is
+administered within 72 hours prior to cognitive assessment.~Related to magnetic resonance imaging:~*
+Claustrophobia~* Any metallic surgical implant, like a pacemaker or clip that is incompatible with MRI.~Certain
+metallic implants like joint replacements may be permitted, provided that specific manufacturer specifications
+are available, and that the device is known to be safe for 7T MRI. In case a patient is not eligible for the 7T
+scanner, the 3T scanner will be used.

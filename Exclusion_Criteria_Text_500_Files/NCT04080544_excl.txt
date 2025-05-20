@@ -1,0 +1,21 @@
+Exclusion Criteria:~* Mini-Mental State Examination (MMSE) score lower than 22; all DLBS participants at the
+time of initial Wave 1 enrollment between 2008 - 2014 had an MMSE score of 26 or above, indicating normal
+cognitive function. However, in the time interval between Wave 1 and Wave 3, it is possible that mental
+capacity may have deteriorated. The investigators will exclude all participants in Wave 3 testing who have an
+MMSE lower than 22.~* Taking some types of sedatives, benzodiazepines, or anti-psychotics.~* Currently
+undergoing chemotherapy or radiation for cancer.~* New history of substance abuse.~* Has a history of drug or
+alcohol dependence within the last year, or prior prolonged history of dependence.~* Recreational drug use in
+past six months.~* Central nervous systems disease or brain injury that would preclude participation in the
+study.~* Psychiatric or neurological disorder that would preclude participation in this study.~* Has clinically
+significant hepatic, renal, pulmonary, metabolic or endocrine disturbances which pose safety risk.~* Has a
+current clinically significant cardiovascular disease that poses a safety risk.~* Has a current clinically
+significant infectious disease or a medical comorbidity which poses a safety risk.~* Has either: 1) Screening
+electrocardiogram (ECG) with corrected QT Interval (QTc) > 450 millisecond (msec) if male, or QTc > 470 msec if
+female; or 2) A history of additional risk factors for Torsades de Pointes (TdP) (e.g., hypokalemia, family
+history of Long QT syndrome) or are taking drugs that are known to cause QT prolongation (a list of prohibited
+and discouraged medications is provided by the Sponsor); Patients with a prolonged QTc interval in the setting
+of intraventricular conduction block (examples right bundle branch block or left bundle branch block), may be
+enrolled with sponsor approval.~* Has received or will receive investigational medication within the 30 days of
+PET/CT scan.~* Has received or will receive a radiopharmaceutical for imaging or therapy within 24 hours of
+PET/CT scan.~* Is a participant who, in the opinion of the investigator(s), is otherwise unsuitable for a study
+of this type.

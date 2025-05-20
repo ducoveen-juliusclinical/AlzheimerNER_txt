@@ -1,0 +1,56 @@
+Exclusion Criteria:~1. Hospitalization (except for planned procedures) or change of chronic concomitant
+medication within 1 month prior to screening.~2. Participants living in a continuous care nursing facility.~3.
+Contraindications to the MRI examination for any reason.~4. Screening MRI (or historical MRI, if applicable) of
+the brain indicative of significant abnormality, including, but not limited to, prior hemorrhage or infarct > 1
+cm3, > 3 lacunar infarcts, cerebral contusion, encephalomalacia, aneurysm, vascular malformation, subdural
+hematoma, hydrocephalus, space-occupying lesion (eg, abscess or brain tumor such as meningioma).~5. Clinical or
+laboratory findings consistent with:~ 1. Other primary degenerative dementia, (dementia with Lewy bodies,
+fronto-temporal dementia, Huntington's disease, Creutzfeldt-Jakob Disease, Down syndrome, etc).~ 2. Other
+neurodegenerative condition (Parkinson's disease, amyotrophic lateral sclerosis, etc).~ 3. Seizure disorder.~
+4. Other infectious, metabolic or systemic diseases affecting the central nervous system (syphilis, present
+hypothyroidism, present vitamin B12 or folate deficiency, other laboratory values etc).~6. A current DSM-V
+diagnosis of active major depression, schizophrenia or bipolar disorder. Participants with depressive symptoms
+successfully managed by a stable dose of an antidepressant are allowed entry.~7. Clinically significant,
+advanced or unstable disease that may interfere with outcome evaluations, such as:~ 1. Chronic liver disease,
+liver function test abnormalities or other signs of hepatic insufficiency (ALT, AST, alkaline phosphatase > 1.5
+ULN, lactate dehydrogenase (LDH) > 1.5 x ULN).~ 2. Respiratory insufficiency.~ 3. Renal insufficiency eGFR < 50
+mL/min based on the CKD-EPI formula,~ 4. Heart disease (myocardial infarction, unstable angina, heart failure,
+cardiomyopathy within 6 months before screening).~ 5. Bradycardia (< 50/min.) or tachycardia (> 100/min.).~ 6.
+Poorly managed hypertension (systolic > 160 mm Hg and/or diastolic > 95 mm Hg) or hypotension (systolic < 90 mm
+Hg and/or diastolic < 60 mm Hg).~ 7. Uncontrolled diabetes in known diabetics, as defined by hemoglobin A1c
+(HbA1c) > 7.5.~8. History of cancer within 3 years of screening with the exception of fully excised
+non-melanoma skin cancers or non-metastatic prostate cancer that has been stable for at least 6 months.~9.
+Seropositive for human immunodeficiency virus (HIV).~10. History of acute/chronic hepatitis B or C and/or
+carriers of hepatitis B (seropositive for hepatitis B surface antigen \[HbsAg\] or anti-hepatitis C \[HCV\]
+antibody).~11. Clinically significant abnormalities in screening laboratory tests, including:~ a) Hematocrit
+less than 35% for males and less than 32% for females, absolute neutrophil cell count of <1500/uL (with the
+exception of a documented history of a chronic benign neutropenia), or platelet cell count of < 120,000/uL;
+international normalized ratio (INR) > 1.4 or other coagulopathy, confirmed by repeat assessment.~12.
+Disability that may prevent the participant from completing all study requirements (e.g., blindness, deafness,
+severe language difficulty, etc).~13. Within 4 weeks of screening visit or during the study, concurrent
+treatment with antipsychotic agents, antiepileptics, centrally active anti-hypertensive drugs (e.g., clonidine,
+l-methyl dopa, guanidine, guanfacine, etc), sedatives, opioids, mood stabilizers (e.g., valproate, lithium); or
+benzodiazepines, with the following exception:~ a) Low dose lorazepam may be used for sedation prior to MRI
+scan for those participants requiring sedation. At the discretion of the Investigator, 0.5 to 1 mg may be given
+orally prior to scan with a single repeat dose given if the first dose is ineffective. No more than a total of
+2 mg lorazepam may be used for the MRI scan.~14. Any disorder that could interfere with the absorption,
+distribution, metabolism or excretion of drugs (eg, small bowel disease, Crohn's disease, celiac disease, or
+liver disease).~15. Nootropic drugs except stable AD meds (acetylcholinesterase inhibitors and memantine).~16.
+Suspected or known drug or alcohol abuse, ie, more than approximately 60 g alcohol (approximately 1 liter of
+beer or 0.5 liter of wine) per day.~17. Suspected or known allergy to any components of the study
+treatments.~18. Enrollment in another investigational study or intake of investigational drug within the
+previous 30 days or 5 half-lives of the investigational drug, whichever is longer.~19. Intake of drugs or
+substances potentially involved in clinically significant induction or inhibition of CYP3A4 or P-gp mediated
+drug interactions with CT1812, within 4 weeks or 5 half-lives of the interacting drug prior to administration
+of CT1812 and throughout the study. Grapefruit juice should be avoided in the 2 weeks prior to dosing and
+throughout the study. See Appendix A for a complete list of prohibited substances.~20. Exposure to
+immunomodulators, anti AÎ² vaccines, passive immunotherapies for AD (e.g., monoclonal antibodies) within the
+past 180 days and/or exposure to BACE inhibitors within the past 30 days~21. Anticipated use of nonsteroidal
+anti-inflammatory drugs (NSAIDs) on more than 14 days from Baseline/Day 1 to Day 182. Contraindication to
+undergoing an LP including, but not limited to: inability to tolerate an appropriately flexed position for the
+time necessary to perform an LP; international normalized ratio (INR) > 1.4 or other coagulopathy; platelet
+count of < 120,000/Î¼L; infection at the desired LP site; taking anti-coagulant medication within 90 days of
+screening (low-dose aspirin is permitted); degenerative arthritis of the lumbar spine; suspected
+non-communicating hydrocephalus or intracranial mass; prior history of spinal mass or trauma.~22. Any
+condition, which in the opinion of the Investigator or the Sponsor, makes the participant unsuitable for
+inclusion.

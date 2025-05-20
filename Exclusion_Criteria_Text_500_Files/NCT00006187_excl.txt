@@ -1,0 +1,4 @@
+Exclusion Criteria:~* Patient is living in a nursing home or skilled nursing facility~* Women will be
+ineligible if not postmenopausal or surgically sterilized~* Site physician or Sponsor may exclude patients with
+serious medical problems such as cancer, cardiovascular disease, major neurological or psychiatric illness,
+thyroid disease, or major head trauma

@@ -1,0 +1,41 @@
+Exclusion Criteria:~1. Dementia due to any condition other than AD, including vascular dementia (Rosen-Modified
+Hachinski Ischemic score ≥ 5)~2. Evidence of significant central nervous system (CNS) vascular disease on
+previous neuroimaging including but not limited to: cortical stroke, multiple infarcts, localized single
+infarcts in the thalamus, angular gyrus, multiple lacunar infarcts or extensive white matter injury~3.
+Clinically significant neurologic disease or condition other than AD, such as cerebral tumor, chronic subdural
+fluid collections, Huntington's Disease, Parkinson's Disease, normal pressure hydrocephalus, or any other
+diagnosis that could interfere with assessment of safety and efficacy~4. Evidence of clinically significant
+unstable cardiovascular, pulmonary, renal, hepatic, gastrointestinal, neurologic, or metabolic disease within
+the 6 months prior to enrollment. . If there is a history of cancer the subject should be clear of cancer for
+at least 2 years prior to screening. More recent history of basal cell or squamous cell carcinoma and melanoma
+in situ (Stage 0) may be acceptable after review by the Medical Monitor.~5. Creatinine clearance (CL) of
+<45ml/min~6. Poorly controlled diabetes, at the discretion of the Principal Investigator~7. Concomitant
+treatment with NMDA receptor antagonists such as but not limited to memantine or drug combinations containing
+memantine, dextromethorphan (a cough suppressant), ketamine, phencyclidine (PCP), methoxetamine (MXE), nitrous
+oxide (N2O) and the following synthetic opioids: penthidine, levorphanol, methadone, dextropropoxyphene,
+tramadol, and ketobemidone.~8. Use of vitamin E > 400 International Units (IU) per day within 14 days prior to
+screening~9. Use of valproic acid within 14 days prior to screening~10. Use of an active Alzheimer's vaccine
+within 2 years prior to screening~11. Use of a monoclonal antibody for treatment of AD within 1 year prior to
+screening~12. Any medical or psychiatric condition that is likely to require initiation of additional
+medication or surgical intervention during the course of the study~13. Any screening laboratory values outside
+the reference ranges that are deemed clinically significant by the PI~14. Use of an investigational drug within
+30 days prior to screening~15. Suicidality defined as active suicidal thoughts during the 6 months prior to
+screening or at Baseline \[Type 4 or 5 on C-SSRS\], or history of suicide attempt in previous 2 years, or at
+serious suicide risk in PI's judgment~16. Major psychiatric illness such as current major depression according
+to Diagnostic and Statistical Manual of Mental Disorders, 5th Edition , current or past diagnosis of bipolar
+disorder, schizophrenia, or any other psychiatric disorder that might interfere with the assessments of safety
+or efficacy at the discretion of the PI~17. Diagnosis of alcohol or drug abuse within the last 2 years~18.
+Abnormal laboratory tests that suggest an alternate etiology for dementia. If the patient has prior history of
+serum B12 abnormality, anemia with hemoglobin ≤10g /dl, thyroid function abnormality, electrolyte abnormality,
+or positive syphilis serology the patient should be revaluated to determine if these potential causes of
+dementia have been addressed. Only if these causes have been ruled out as the cause of the dementia can the
+patient be enrolled.~19. History of prolonged QT or prolonged QT on screening ECG (QTcB or QTcF >499 per
+central reader)~20. Acute or poorly controlled medical illness: blood pressure > 180 mmHg systolic or 100 mmHg
+diastolic; myocardial infarction within 6 months; uncompensated congestive heart failure \[New York Heart
+Association (NYHA) Class III or IV\]~21. Known to be seropositive for human immunodeficiency virus (HIV)~22.
+Known to be seropositive for Hepatitis B or C, unless successful curative treatment for Hepatitis C (e.g.,
+Harvoni) has been received and there is documentation that there is no Hep B/C virus detected 3 months after
+completion of treatment~23. AST or ALT >3x upper limit of normal (ULN) and total bilirubin >2x ULN or
+International Normalized Ratio (INR) >1.5~24. Prior exposure to bryostatin, or known sensitivity to bryostatin
+or any ingredient in the study drug~25. Any other concurrent medical condition, which in the opinion of the PI
+makes the subject unsuitable for the clinical study

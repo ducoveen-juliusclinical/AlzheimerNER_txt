@@ -1,0 +1,4 @@
+Exclusion Criteria:~* Significant worsening of medical conditions that may preclude completion of this study.~*
+Evidence of symptomatic or new moderate-severe radiologic ARIA at baseline.~* Has received (or plans to
+receive) amyloid antibodies since completing Phase 3 core study (ALZ-801-AD301).~* Subject taking any
+prohibited medications per protocol.

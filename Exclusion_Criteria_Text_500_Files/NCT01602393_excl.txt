@@ -1,0 +1,11 @@
+Exclusion Criteria:~* Diagnosis of Alzheimer's disease according to the (DSM-IV-TR) or NINCDS-ADRDA criteria.~*
+Any medical condition that could explain the patients cognitive deficits.~* CT or MRI brain imaging results
+obtained within 12 months prior to baseline showing evidence of infection, infarction, or focal lesions of
+clinical significance~* MRI scan at screening showing more than 4 cerebral microhemorrhages (lesions with
+diameter ≤ 10 mm).~* Geriatric Depression Scale (30-point scale) score > 9 at screening.~* History of stroke.~*
+Modified Hachinski ischemic scale score > 4 at screening.~* Women of childbearing potential.~* Vitamin B12 or
+folate deficiency.~* Diagnosis of schizophrenia or recurrent mood disorder (including unipolar and bipolar
+disorders) within 3 years of screening.~* Current diagnosis of peptic ulcer or gastrointestinal bleeding within
+the last year and/or chronic inflammatory bowel disease.~* Concomitant use of donepezil at doses > 5 mg/day or
+other cholinesterase inhibitors (rivastigmine or galantamine) at any dose.~* Concomitant use of memantine at
+dose > 20 mg/day.~* Concomitant use of psychoactive drugs (sedatives, hypnotics, etc).

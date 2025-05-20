@@ -1,0 +1,29 @@
+Exclusion Criteria:~1. Body mass index (BMI)>40 kg/m2.~2. Average QTcF (from 3 ECGs obtained at least one
+minute apart) at screening of ≥450msec in males and ≥460msec in females.~3. MRI contraindications including
+claustrophobia, the presence of metal (ferromagnetic) implants, or cardiac pacemaker.~4. Pregnancy or possible
+pregnancy.~5. Any significant neurologic disease other than prodromal or early AD including Parkinson's
+disease, Huntington's disease, normal pressure hydrocephalus, brain tumor, progressive supranuclear palsy,
+seizure disorder, subdural hematoma, multiple sclerosis, or history of significant head trauma followed by
+persistent neurologic deficits or known structural brain abnormalities.~6. Current or history of alcohol or
+substance abuse or dependence within the past 2 years per Diagnostic and Statistical Manual of Mental Disorders
+(DSM V criteria).~7. Endorsement of current suicidality or suicidal ideation on the screening C-SSRS.~8.
+Uncontrolled diabetes (HbA1c > 7% or the current use of insulin or sulfonylureas).~9. Poorly controlled blood
+pressure (systolic BP>160, diastolic BP>90 mmHg) based on two or more readings and as determined by the
+PI/study clinician.~10. eGFR < 10 ml/ min/ 1.73 m2.~11. Myocardial infarction, angina, stroke, or transient
+ischemic attack in the past 6 months.~12. Chronic heart failure.~13. Presence of significant liver disease with
+total bilirubin >2X upper limit.~14. Inability to tolerate oral medication.~15. Participants taking medications
+that are sensitive to substrates or substrates with a narrow therapeutic range for CYP3A4, CYP2C8, CYP2C9, or
+CYP2D6 or strong inhibitors or inducers of CYP3A4 (e.g., cyclosporine, tacrolimus, or sirolimus).~16.
+Participants currently taking drugs that induce cellular senescence: alkylating agents, anthracyclines,
+platins, other chemotherapy.~17. Participants on therapeutic doses of anticoagulants (e.g., warfarin, heparin,
+low molecular weight heparin, factor Xa inhibitors, etc.) other than low dose aspirin unless able to be held
+for 2 days prior to LP and with the documented approval of the prescribing clinician.~18. Participants taking
+H2 antagonists or proton pump inhibitors who are unable or unwilling to reduce or hold therapy for at least 2
+days prior to and during each of the 2-day courses of Dasatinib plus quercetin dosing. Instead, subjects may
+use antacids prior to and during each of the 2-day courses of Dasatinib plus quercetin dosing.~19. Concomitant
+use of strong CYP3A4 inhibitors.~20. Co-enrollment in another ADRD research study with a potentially
+disease-modifying intervention or study drug that may impact senescent cells. Participants previously enrolled
+in a study meeting these criteria are eligible to screen after a washout period of ≥6 months from date of last
+dose to date of screening.~21. Presence of any condition that the Investigator believes would put the subject
+at risk or would preclude the patient from successfully completing all aspects of the trial.~22. Use of
+anti-amyloid therapies (e.g. aducanumab, lecanamab).

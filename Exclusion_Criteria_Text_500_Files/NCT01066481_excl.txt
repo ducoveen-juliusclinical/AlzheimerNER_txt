@@ -1,0 +1,2 @@
+Exclusion Criteria:~* Administration of anti-dementia drugs including cholinesterase-inhibitors or NMDA
+receptor antagonists within 90 days~* Complication of other causes of dementia

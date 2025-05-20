@@ -1,0 +1,5 @@
+Exclusion Criteria:~* Are currently enrolled in, or discontinued within the last 30 days from, a clinical trial
+involving an investigational drug or device or off-label use of a drug or device (other than the study
+drug/device used in this study), or concurrently enrolled in any other type of medical research judged not to
+be scientifically or medically compatible with this study~* Meets LZAM or LZAN discontinuation criteria at the
+end of treatment in LZAM or LZAN study

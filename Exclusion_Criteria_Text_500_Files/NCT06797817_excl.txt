@@ -1,0 +1,5 @@
+Exclusion Criteria:~* individuals with other potential causes of dementia, such as a history of severe
+traumatic brain injury, brain tumours, epilepsy, or central nervous system infections.~* individuals involved
+in an intervention that interferes with the trial (immunosuppressive drugs, steroids, antibiotics, or received
+chemotherapy in the month prior to the start of the intervention).~* individuals with gastrointestinal
+disorders.

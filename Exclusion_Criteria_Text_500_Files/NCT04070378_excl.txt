@@ -1,0 +1,48 @@
+Exclusion Criteria:~1. The subject has a Rosen-modified Hachinski Ischemia Score > 4 at the screening visit.~2.
+The subject has a known history of stroke or evidence from screening MRI that is clinically significant in the
+investigator's opinion.~3. The subject has evidence of a clinically relevant neurological disorder other than
+probable AD at the screening visit, including: vascular dementia, Parkinson's disease, dementia with Lewy
+bodies, frontotemporal dementia, progressive supranuclear palsy, corticobasal degeneration, amyotrophic lateral
+sclerosis, Huntington's disease, multiple sclerosis, mental retardation, hypoxic cerebral damage, or head
+trauma with loss of consciousness that led to persistent cognitive deficits.~4. The subject has evidence of a
+clinically relevant or unstable psychiatric disorder, based on DSM-5 criteria, including schizophrenia or other
+psychotic disorder, bipolar disorder, delirium, or major depression. (Major depression in remission is not
+exclusionary.) A score on the 15-item Geriatric Depression Scale (GDS) of 5 or more requires an assessment by
+an appropriate health care professional to evaluate for the presence of major depression. Subjects with a score
+of 5 or more who are not diagnosed with major depression following such an assessment may be included in the
+trial.~5. The subject has a history of alcoholism or drug dependency/abuse within the last 5 years before
+screening.~6. The subject has been treated with any investigational product within 60 days or 5 half-lives
+(whichever is longer) prior to the screening visit.~7. The subject has been treated with anti-amyloid-beta or
+anti-tau protein monoclonal antibodies within one year prior to the screening visit.~8. The subject has been
+treated with an active vaccine targeting amyloid-beta or tau protein.~9. The subject has received a
+live/live-attenuated bacterial or viral vaccine within 3 months prior to the screening visit.~10. The subject
+has been treated with immunosuppressive medications, such as azathioprine, cyclosporine, methotrexate,
+tacrolimus, or mycophenylate, within 2 months prior to the screening visit.~11. The subject has been treated
+with a course of corticosteroids longer than 5 days within 2 months prior to the screening visit.~12. The
+subject is taking or is anticipated to require treatment with estrogens.~13. The subject is taking or is
+anticipated to require treatment with an anticoagulant medication, including warfarin, dabigatran, rivaroxaban,
+apixaban, edoxaban, heparin, or enoxaparin.~14. The subject is taking or is anticipated to require treatment
+with aspirin at a dose higher than 325 mg daily.~15. The subject has a history of asthma or chronic obstructive
+pulmonary disease.~16. The subject has had a myocardial infarction, unstable angina, stroke, transient ischemic
+attack or required intervention for any of these conditions (e.g., coronary artery bypass graft, percutaneous
+coronary intervention via cardiac catheterization, thrombolytic therapy) within 6 months prior to the screening
+visit.~17. The subject has had an infection requiring medical intervention within 30 days prior to the
+screening visit.~18. The subject has serologic evidence of current or prior hepatitis B virus (HBV) infection
+based on hepatitis B surface antigen or hepatitis core antibody blood tests at the screening visit.~19. The
+subject has serologic evidence of hepatitis C virus (HCV) infection based on hepatitis C antibody blood test at
+the screening visit.~20. The subject has serologic evidence of human immunodeficiency virus (HIV) infection
+based on HIV antigen/antibody test at the screening visit.~21. The subject has a platelet count less than
+50,000 per microliter (mL) at the screening visit.~22. The subject has a creatinine clearance less than 30
+mL/minute at the screening visit.~23. The subject has a history or evidence of a malignancy (except for
+adequately treated basal cell or squamous cell skin cancer, in situ cervical cancer, or localized prostate
+carcinoma) within the 2 years prior to the screening visit.~24. The subject has had any other
+unstable/uncontrolled medical illness within 12 weeks prior to the screening visit such that, in the judgment
+of the investigator, participation in the trial would pose a significant medical risk to the subject.~25. The
+subject has significant visual or auditory impairment, or limited English proficiency, that in the
+investigator's opinion would preclude collection of outcome measures.~26. The subject has any contraindication
+to or inability to tolerate brain MRIs (e.g., a pacemaker or any other implanted device or condition that would
+preclude proximity to a strong magnetic field).~27. The subject has any contraindication to or inability to
+tolerate a PET scan (includes current or recent participation in any procedures involving radioactive agents
+such that the total radiation dose exposure to the subject in any given year would exceed acceptable limits of
+annual and total dose).~28. The subject has a history of allergy to dexamethasone, diphenhydramine,
+acetaminophen, montelukast, or acyclovir.

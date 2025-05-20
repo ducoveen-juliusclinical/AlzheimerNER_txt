@@ -1,0 +1,14 @@
+Exclusion Criteria:~* The subject is felt by the investigator to be unsuitable (on the basis of health,
+compliance, caregiver availability, or for any other reason) for inclusion in the study.~* Subjects with
+serious suicide risk. If there are yes answers on items 4, 5 or on any behavioral question of the C-SSRS, a
+suicide risk assessment must be done by a qualified mental health professional with expertise in the evaluation
+of suicidality in the elderly (e.g., psychiatrist, geriatrician or neurologist specializing in treatment of
+patients with AD) to determine whether it is safe for the subject to participate in the study.~* Subjects
+demonstrating a QTcF > 480 msec or a >45 msec change from the TTP488-301 Baseline value based on the locally
+read ECG performed at the TTP488-301 Month 18 Visit (TTP488-303 Baseline). Participants with known history of
+bundle branch block (either right or left) are allowed if absolute QTcF value does not exceed 500 msec.
+Participants with a functioning pacemaker, indicated by an ECG displaying paced rhythm, are allowed with no QTc
+upper limit.~* Other acute or chronic medical or psychiatric condition or laboratory abnormality that may
+increase the risk associated with study participation or investigational product administration or may prevent
+the subject from completing the 2-year study or may interfere with the interpretation of study results and, in
+the judgment of the investigator, would make the subject inappropriate for entry into this trial.

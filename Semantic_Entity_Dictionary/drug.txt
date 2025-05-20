@@ -1,0 +1,62 @@
+entity
+cholinesterase inhibitor
+memantine
+drug
+donepezil
+galantamine
+rivastigmine
+acetylcholinesterase inhibitor
+aricept
+memantine (namenda)
+cholinesterase inhibitors
+antidepressant
+acetylcholinesterase inhibitors for ad (other than donepezil)
+mao inhibitors
+bupropion
+fluoxetine
+paroxetine
+over-the-counter antioxidants (e.g. vitamin e, ginkgo biloba)
+lipid lowering medication
+do not be taking other prescribed medication
+galantamin
+donepezil, rivastigmine or galantamine
+acetylcholinesterase inhibitor (e.g. donepezil, rivastigmine, galantamine)
+achei (either donepezil, rivastigmine, or galantamine)
+anxiolytics
+antipsychotics
+hypnotics
+nmda (n-methyl-d-asparate) antagonist
+psychotropic
+antidepressants
+achei
+rivastigmine or galantamine
+acetylcholinesterase inhibitor (achei)
+medications for ad
+acetylcholinesterase inhibitors (acheis)
+acheis
+acetylcholinesterase inhibitors
+rivastigmine, galantamin, donepezil
+memantin
+ache inhibitors
+nmda antagonist
+rivastigmine, galantamine or an achei,
+cholinesterase inhibitors (chei): donepezil, galantamine, or rivastigmine
+gv-971
+other agents which may impact cognition (e.g., souvenaid®, neuroaidtm, cerefolin®, gingko biloba, etc)
+tacrine
+ache inhibitor (donepezil, galantamine or rivastigmine)
+nmda receptor antagonist
+mood stabilizer
+anxiolytic agents
+achei (except for donepezil at 23 mg po)
+iache
+symptomatic ad medications
+donepezil, rivastigmine
+anti-parkinsonian medication
+single drug for ad (e.g., donepezil or other cholinesterase inhibitors or memantine
+donepezil and memantine in combination
+anticonvulsant medications
+mood-stabilizing psychotropic agents
+estrogen replacement therapy
+ginkgo biloba
+vitamin e

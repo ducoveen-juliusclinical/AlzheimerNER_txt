@@ -1,0 +1,48 @@
+Exclusion Criteria:~* 1. Has prior brain imaging inconsistent with probable AD 2. A history of a stroke that
+resulted in a cognitive or motor deficit or, MRI or CT evidence of a moderate or large cerebral infarct.~ 1.
+Should there be any evidence of neurologic symptoms between the date of the scan confirming diagnosis and
+Screening (V1), rescanning is necessary.~ 3. Has clinically relevant abnormal laboratory tests including serum
+vitamin B12 deficiency, thyroid function abnormality, severe anemia, or electrolyte abnormality.~ 4. Diagnosis
+of type 1 diabetes or type 2 diabetes requiring insulin treatment or the need to use continuous glucose
+monitoring. Subjects who become insulin dependent during the study may not continue to participate in the
+study.~ 5. History of epilepsy or seizure disorder requiring ongoing treatment, or any seizure or loss of
+consciousness within 12 mo prior to Screening (V1).~ 6. Subjects are ineligible, if in the opinion of the
+investigator, they have deficits in speech, comprehension, auditory functioning, or vision which would
+adversely impact their ability to perform the study's cognitive test procedures, complete rating scales, or
+engage in interviews.~ 7. Has any of the following laboratory findings at Screening (V1):~ <!-- -->~ 1. Alanine
+aminotransferase >3 Ã— upper limit of normal (ULN), aspartate aminotransferase >3 Ã— ULN, or history of
+clinically significant liver disease in the Investigator's medical judgment.~ 2. Hemoglobin ≤10 g/dL.~ 3.
+International normalized ratio >1.5 if not on anticoagulant medication; if the subject is on anticoagulant
+medication, the anticoagulant medication should be optimized and on a stable dose for ≥4 wk prior to Screening
+(V1).~ 4. Creatinine clearance (Cockcroft Gault formula) of <45 mL/min.~ 5. Known to be seropositive for human
+immunodeficiency virus (1 and 2), hepatitis B, or hepatitis C. Subjects with hepatitis C who had spontaneous
+resolution or received successful curative treatment (e.g., HARVONIÂ® \[ledipasvir/sofosbuvir\]) with a
+documentation of undetectable viral load for at least 3 mo may be allowed. Serological testing will not be
+performed as part of this study.~ 8. Female subjects with child-bearing potential (premenopausal, menstrual
+bleeding within the last 12 months) or who are pregnant or breastfeeding.~ 9. History of any medical illness
+such as cancer requiring systemic therapy in the last 5 y, except for localized basal cell carcinoma of the
+skin, in situ cervical cancer successfully treated with surgical excision, and stable (for ≥90 d prior to
+Screening \[V1\]) prostate cancer.~ 10. History of breast cancer. 11. History of severe heart failure (Grade 2
+or higher on the New York Heart Association scale), major stroke, uncontrolled seizure disorder, or other
+medical illness that, in the Investigator's opinion, will increase the subject's risk of participation in the
+study or confound study assessments.~ 12. Any surgery requiring general anesthesia that is planned to occur
+during the study. Local anesthesia during outpatient surgery is permitted if, in the opinion of the
+Investigator, the operation will not interfere with study procedures and subject safety.~ 13. History or
+current evidence of major psychiatric illness such as schizophrenia, bipolar disorder, or major depressive
+disorder that may interfere with the subject's ability to perform the study and all assessments.~ <!-- -->~ 1.
+Geriatric Depression Scale Short Form (GDS SF) score >8 at Screening (V1). NOTE: Mild depression or depressive
+mood arising in the context of AD are not criteria for exclusion. The use of anti epileptic medication for
+non-seizure-related treatment or the use of antidepressants is allowed if the dose has remained stable for ≥60
+d prior Screening (V1).~ 14. Violent or aggressive behavior that may interfere with study participation 15.
+History of active suicidal thoughts (Type 4 or 5 on the C SSRS) in the 6 mo prior to Screening (V1) or at
+Baseline (V2), history of a suicide attempt in the previous 2 y or >1 lifetime suicide attempt, or are at
+serious suicide risk, in the Investigator's clinical judgment.~ 16. History of alcohol or drug abuse or
+dependence within 24 mo of Screening (V1) as defined by the Diagnostic and Statistical Manual of Mental
+Disorders 5.~ <!-- -->~ 1. Positive urine screen for drugs of abuse that include methadone, cocaine, and
+amphetamines; positive urine screen for opiates, barbiturates, or benzodiazepines without a prescription.~ 17.
+Has participated in another Investigational New Drug research study involving small molecule drugs within 60 d
+or biological drugs within 90 d prior to the first dose of study drug in this study (Baseline \[V2\]) or within
+5 half-lives of the other investigational medicinal product, whichever is longer.~ 18. History of Covid-19
+(SARS-CoV-2) infection within 6-weeks prior to screening. Subjects with unresolved symptoms of Covid-19
+infection or ongoing cognitive or other deficits attributable to post-Covid-19, that may affect participant
+safety or interfere with efficacy assessments, based on the Investigator's clinical judgment.

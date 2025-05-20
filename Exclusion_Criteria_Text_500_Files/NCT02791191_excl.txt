@@ -1,0 +1,6 @@
+Exclusion Criteria:~* Significant neurological disease affecting the central nervous system (CNS), other than
+AD, that may affect cognition or ability to complete the study, including but not limited to, other dementias,
+serious infection of the brain, Parkinson's disease, multiple concussions, or epilepsy or recurrent seizures
+(except febrile childhood seizures).~* Ocular pathology that significantly limits ability to reliably evaluate
+vision or the retina.~* Use of strong inducers of cytochrome P450 3A (CYP3A).~* Sensitivity to florbetapir or
+Â¹â¸F-AV-1451.~* Contraindication to MRI or PET or poor venous access for blood draws.

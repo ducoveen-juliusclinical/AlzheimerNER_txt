@@ -1,0 +1,8 @@
+Inclusion Criteria:~* Has a diagnosis by the study investigator of a clinical syndrome of cognitive impairment
+consistent with prodromal AD per International Working Group (IWG) diagnostic criteria or mild cognitive
+impairment (MCI) due to AD per National Institute on Aging-Alzheimer's Association (NIA-AA) diagnostic
+criteria.~* Scores 17-28 on Montreal Cognitive Assessment (MoCA) at screening.~* Scores <27 on free recall
+cutoff score from the Free and Cued Selective Reminding Test (FCSRT) (Picture version) at screening.~* Scores
+≤4 on Modified Hachinski Ischemia Scale (MHIS).~* Scores >0 on the Functional Activities Questionnaire (FAQ).~*
+Has a florbetapir positron emission tomography (PET) scan or cerebrospinal fluid (CSF) result at screening
+consistent with the presence of amyloid pathology.~

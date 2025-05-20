@@ -1,0 +1,11 @@
+Exclusion Criteria:~* Hepatic impairment defined as Child-Pugh class of A or more severe liver impairment.~*
+Other neurodegenerative diseases and causes of dementias, including Parkinson's disease and Huntington's
+disease, vascular dementia, CJD (Creutzfeldt-Jakob disease), LBD (Lewy Body dementia), PSP (Progressive
+Supranuclear Palsy), AIDS (Acquired Immunodeficiency Syndrome), or NPH (normal pressure hydrocephalus).~*
+History of a major depressive episode within the past 6 months of screening.~* Insulin-dependent diabetes or
+uncontrolled diabetes with HbA1c value >8.0 %.~* Cancer or a malignant tumor within the past 3 years, except
+patients who underwent potentially curative therapy with no evidence of recurrence for >3 years. Patients with
+stable prostate cancer or non-melanoma skin cancers are not excluded.~* Participation in another clinical trial
+for an investigational agent and having taken at least one dose of study medication, unless confirmed as having
+been on placebo, within 12 weeks prior to screening. The end of a previous investigational trial is defined as
+the date of the last dose of an investigational agent.

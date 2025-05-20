@@ -1,0 +1,21 @@
+Exclusion Criteria:~Subjects may not be enrolled if:~1. Neurologic diseases: Any significant neurologic disease
+other than AD that can lead to cognitive impairment, such as Parkinson's disease, vascular dementia, dementia
+with Lewy bodies, frontotemporal dementia, Huntington's disease, normal pressure hydrocephalus, corticobasal
+syndrome, brain tumor, seizure disorder, subdural hematoma (within the last 1 year), multiple sclerosis, or
+history of significant head trauma (e.g. loss of consciousness for 30 minutes or more) followed by persistent
+neurologic deficits or known structural brain abnormalities.~2. Neuroimaging: Baseline or prior magnetic
+resonance imaging (MRI) scans with evidence of cortical stroke or hemorrhage, strategically located lacunar
+stroke (ex: left thalamus), or severe small vessel ischemic disease.~3. History of alcohol or substance use
+disorder or dependence (DSM V criteria) within the last 2 years.~4. Psychiatric disorder: Major depressive
+disorder (within the last 1 year), bipolar disorder, schizophrenia (DSM V criteria), or current major psychotic
+symptoms or behavioral problems that could interfere with study procedures.~5. Any significant systemic illness
+or unstable medical condition, which could obfuscate cognitive aging or neurodegenerative trajectories or
+affect valid cognitive and self-report measurements.~6. Excluded medications: Niacin or dietary supplements
+containing nicotinamide mononucleotide (NMN) or nicotinamide riboside (NR); antipsychotic medications,
+antidepressant medications with anticholinergic side effects. Washout from psychoactive medications for at
+least 8 weeks before screening.~7. Current use of anticoagulants; significant back or spine disease that would
+make a lumbar puncture difficult or unsafe as determined by a clinician.~8. Other laboratory abnormalities: Has
+AST or ALT > 3 times the upper limit of normal; serum creatinine > 2.0 mg/d; HbA1C > 8.5%~9. Participation in
+an investigational trial to evaluate pharmaceuticals or biologics within the past 3 months or 5 half-lives,
+whichever is shorter~10. Other medical conditions which, in the opinion of the investigator, would jeopardize
+safety or impact the validity of the study results.

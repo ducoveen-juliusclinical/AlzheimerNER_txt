@@ -1,0 +1,3 @@
+Exclusion Criteria:~* vascular demential~* concurrent Axis I DSM-IV diagnosis (delirium, schizophrenia,
+delusional disorder and affective disorders)~* significant medical illness (cardiovascular, liver, renal,
+edocrinal, B12 or folic acid deficience and neurological illnesses)~* drug or alcohol addiction
