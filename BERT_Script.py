@@ -39,12 +39,43 @@ REPORT_FILE = BASE_DIR / "training_report_BERT.txt"
 
 # ------------------ TEXT CLEANING & LOADING ------------------ #
 
+def normalize_entity(entity: str) -> str:
+    entity = entity.lower()
+
+    # Standardize phrasing
+    entity = entity.replace('greater than or equal to', '≥')
+    entity = entity.replace('less than or equal to', '≤')
+    entity = entity.replace('greater than', '>')
+    entity = entity.replace('less than', '<')
+
+    # Normalize various symbol styles
+    entity = re.sub(r'\s*/\s*=\s*', '=', entity)
+    entity = re.sub(r'>=|>/=', '≥', entity)
+    entity = re.sub(r'<=|</=', '≤', entity)
+
+    # Normalize numeric ranges
+    entity = re.sub(r'\s*-\s*', ' to ', entity)
+    entity = re.sub(r'\s*–\s*', ' to ', entity)  # en-dash
+
+    # Merge operators with numbers for token consistency
+    entity = re.sub(r'\s*([<>≤≥=])\s*(\d+)', r' \1_\2 ', entity)
+
+    # Clean up spacing
+    entity = re.sub(r'\s+', ' ', entity).strip()
+
+    return entity
+
 # Load semantic dictionary
 def load_semantics(directory):
     semantics = {}
     for file in directory.glob("*.txt"):
+        entries = []
         with open(file, "r", encoding="utf-8") as f:
-            semantics[file.stem] = [line.strip().lower() for line in f]
+            for line in f:
+                entity = line.strip()
+                normalized = normalize_entity(entity)
+                entries.append(normalized)
+        semantics[file.stem] = entries
     return semantics
 
 
@@ -62,9 +93,29 @@ def clean_text(text):
     return extracted.strip()
 
 
-# Preprocess Text to Replace <240 with a Placeholder
-def preprocess_text_for_bert(text):
-    text = re.sub(r'\s*([<>≤≥=])\s*(\d+)', r' \1 \2', text)  # Normalize spaces, keep numeric expressions intact
+def preprocess_text_for_bert(text: str) -> str:
+    text = text.lower()
+
+    # Same replacements as in normalize_entity()
+    text = text.replace('greater than or equal to', '≥')
+    text = text.replace('less than or equal to', '≤')
+    text = text.replace('greater than', '>')
+    text = text.replace('less than', '<')
+
+    text = re.sub(r'\s*/\s*=\s*', '=', text)
+    text = re.sub(r'>=|>/=', '≥', text)
+    text = re.sub(r'<=|</=', '≤', text)
+
+    # Normalize dashes
+    text = re.sub(r'\s*-\s*', ' to ', text)
+    text = re.sub(r'\s*–\s*', ' to ', text)
+
+    # Merge operators with numbers to form atomic tokens
+    text = re.sub(r'\s*([<>≤≥=])\s*(\d+)', r' \1_\2 ', text)
+
+    # Normalize spaces
+    text = re.sub(r'\s+', ' ', text).strip()
+
     return text
 
 
@@ -90,7 +141,7 @@ def load_txt(directory):
 # Tokenization using regex, label with BIO format
 def tokenize_and_label(text, semantics, filename):
     # Tokenization using regex (custom defined to include < and handle complex values)
-    tokens = re.findall(r"(?:[<>≤≥=]\s?\d+\s?mg/dl)|[a-zA-Z0-9\(\)\-\'%≤≥=<>/.]+|\b\d{4}\b", text.lower())  # Add \b\d{4}\b for year capture
+    tokens = re.findall(r"[<>≤≥=]_\d+|[a-zA-Z0-9\(\)\-\'%≤≥=<>/.]+|\b\d{4}\b", text.lower())
     labels = ["O"] * len(tokens)
     entities_found = []
     captured_ranges = []
